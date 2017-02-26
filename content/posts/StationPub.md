@@ -1,9 +1,10 @@
 +++
-Categories = ["Development","GoLang"]
-Tags = ["social_media"]
+Categories = ["Knebworth"]
+Tags = ["twitter", "local"]
 Description = "The Station Pub, Knebworth, Campaign"
 date = "2017-02-13T14:12:17Z"
-title = "Station_Pub"
+title = "Station Pub"
+comments = true
 menu = "main"
 +++
 

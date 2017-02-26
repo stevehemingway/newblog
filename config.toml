@@ -1,12 +1,12 @@
-baseurl = "https://stevehemingway.github.io/"
+baseurl = "https://stevehemingway.com"
 languageCode = "en-gb"
-title = "Steve Hemingway"
+title = "Steve Hemingway's blog"
 theme = "hpstr"
-pluralizelisttitles = true
+pluralizelisttitles = false
 PygmentsCodeFences = true
 Paginate = 5
 disqusShortname = "stevehem"
-
+copyright = "(c) Steve Hemingway 2017"
 
 [params]
 	subtitle = "The blog of a geek manqué"
@@ -15,7 +15,10 @@ disqusShortname = "stevehem"
 		avatar = "/images/steve.jpg"
 		bio = "Chemist, physicist, quant, family man, hack"
 		github = "stevehemingway/myblog-hugo"
+		linkedin = "//www.linkedin.com/in/stevehemingway"
+		twitter = "//twitter.com/steveknebworth"
 	[params.image]
 	  feature = "/images/abstract-1.jpg"
-#	  credit = "dargadgetz"
-#	  creditlink = "http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/"
+	  credit = "dargadgetz"
+	  creditlink = "http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/"
+			
