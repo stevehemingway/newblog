@@ -7,12 +7,10 @@ type : post
 share : true
 --- 
 
-# About this website
+# About Steve
 
 This is my latest corner of the web.
 
-I used to have a blog at Tumblr. The [old posts](http://stevehemingway.tumblr.com/) are still there, but I won't be adding to them. I generally don't see promoted posts in my browser, and I wasn't aware that my genuine posts were interspersed with promoted ones suggesting that people should check to see if they were due mis-sold PPI and the like. 
+I used to have a blog at Tumblr. The [old posts](http://stevehemingway.tumblr.com/) are still there. Tumblr has a lot going for it: spectacular free templates with all sorts of clever effects, the ability to auto tweet and auto post to Facebook. The problem is that there is no such thing as a free lunch. I don’t mind advertising when it is for things sane people might want to buy. The problem is that, increasingly, legitimate advertisers have come to realise that online advertising doesn’t generate increased sales, at least not enough to cover the cost of it. The end result is only people seeking to prey on the vulnerable find it profitable to advertise on social media. The problem is particularly acute, because advertisements are increasingly indistinguishable from my genuine content, resulting in readers assuming that I endorse products that horrify me.
 
-This is a price which is too much, especially as there are many free alternatives. I am hosting this both on my own mail server on digital ocean and on github pages, which is entirely free. I probably will drop the github pages hosting once I get comfortable with the Digital Ocean offering. 
-
-I have various social media accounts. I'll sort out some links to them eventually.
+The source code for this website can all be examined at [github](https://www.github.com). I haven’t given a link to the actual source because if you cannot find it easily you’re unlikely to find it of much interest. Git, and sites like github and bitbucket are wonderful things. If you are remotely interested in geeky things, I strongly suggest that you take a look at them.
