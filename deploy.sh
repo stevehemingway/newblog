@@ -1,6 +1,10 @@
 #!/bin/bash
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
+echo -e "
+Remember: you need to log into box.acksam.com and go to /home/user-data/www/stevehemingway.com
+then do 'git pull' to pull the built website from github pages!  
+"
 
 # Build the project.
 # hugo # if using a theme, replace by `hugo -t hemingway2`
@@ -20,6 +24,7 @@ if [ $# -eq 1 ]
 
 	  # Push source and build repos.
 	  git push origin master
+	  echo "if the above command failed, you might want to cd to public and do a 'git rm -rf .'"
 
 	  # Come Back
 	  cd ..
