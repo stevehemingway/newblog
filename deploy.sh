@@ -8,12 +8,12 @@ then do 'git pull' to pull the built website from github pages!
 
 # Build the project.
 # hugo # if using a theme, replace by `hugo -t hemingway2`
-hugo 
+/snap/bin/hugo 
 
 # Go To Public folder
 cd public
 # Add changes to git.
-git add -A
+git add -A :/
 
 # Commit changes.
 msg="rebuilding site `date`"
