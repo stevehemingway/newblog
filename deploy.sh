@@ -7,7 +7,8 @@ then do 'git pull' to pull the built website from github pages!
 "
 
 # Build the project.
-hugo
+#hugo
+$HUGO
 #/snap/bin/hugo  you need to use this if it is not in your path
 
 # Go To Public folder
