@@ -7,8 +7,8 @@ then do 'git pull' to pull the built website from github pages!
 "
 
 # Build the project.
-# hugo # if using a theme, replace by `hugo -t hemingway2`
-/snap/bin/hugo 
+hugo
+#/snap/bin/hugo  you need to use this if it is not in your path
 
 # Go To Public folder
 cd public
