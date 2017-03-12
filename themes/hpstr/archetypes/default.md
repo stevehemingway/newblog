@@ -1,6 +1,6 @@
 +++
 Description = ""
-Tags = ["Development", "golang"]
-Categories = ["Development", "GoLang"]
+Tags = ["Politics", "Knebworth", "social media"]
+Categories = ["legacy", "legacy GoLang"]
 menu = "main"
 +++

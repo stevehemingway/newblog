@@ -9,6 +9,14 @@ image:
 share: true
 ---
 
+# What is this page?
+
+When I got the HPSTR theme, which defines the *form* of this website, I got an example site with various pages on the designer and how to use it. This is one of those pages. Read on only if you are interested in how I went about getting this theme. Note that there are many themes available for Hugo at github. Go [here](https://github.com/spf13/hugoThemes) to see the list. For all I know there are themes available elsewhere too. Note that github.com is wonderful, and free. 
+
+From here on down is the original page.
+
+---
+
 This is a port of the **HPSTR** theme to [Hugo](https://gohugo.io). This theme is perfect for bloggers.
 
 ## Get the theme
@@ -168,7 +176,6 @@ Video embeds are responsive and scale with the width of the main content block w
 ### Link Post Type
 
 Link blog like a champ by adding `link: http://url-you-want-linked` to a post's YAML front matter. Arrow glyph links to the post's permalink and the the `post-title` links to the source URL. 
-
 
 ---
 
