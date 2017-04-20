@@ -19,15 +19,7 @@ The Council decided at a special meeting on 11^th^ April to proceed with the sub
 
 NHDC will shortly deliver to the Inspector the full plan, plus the evidence base, plus all the responses to the last consultation forms the submission. Once the Inspector has reviewed the plan, the process moves to a Public Inquiry before the Inspector provides his report to the Secretary of State who has the final decision. As timings are confirm I will provide these, and the full timetable, updated from time to time, is available on the NHDC website - search for 'Local Development Scheme', which is what most of us call a ‘timetable’.
 
-### **Hertfordshire County Council Elections – 4^th^ May**
+### **Hertfordshire County Council Elections – 4th May**
 
 Voting in County elections takes place this year on Thursday, 4th May so if you are reading this early enough in May and registered to vote please take the opportunity to vote for your county council representative. Knebworth is within the Knebworth & Codicote county electoral division which, as well as covering Knebworth and Codicote also covers Kimpton, Great and Little Wymondley and Chesfield.
-
-Please contact your NHDC councillors if you would like to discuss these or any other matters:
-
-**Steve Hemingway, steve@stevehemingway.com or phone 01438 940594 (please include STD code when dialling); Steve Deakin-Davies, stevedeakindavies@gmail.com or phone 07949 435435 **
-
-Or your Member of Parliament **Stephen McPartland**: <stephen@stephenmcpartland.co.uk>\
-Stephen McPartland MP, House of Commons, Westminster, London, SW1A 0AA
-
 
