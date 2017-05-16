@@ -4,7 +4,7 @@ Description = "Rules for Good Writing"
 Tags = ["humour"]
 date = "2017-05-05T12:32:45+01:00"
 menu = "main"
-title = "how to write good"
+title = "How to Write Good"
 
 +++
 
@@ -61,3 +61,6 @@ title = "how to write good"
 1. Take the bull by the hand and avoid mixing metaphors.
 1. If you reread your work, you can find on rereading a great deal of repetition can be by rereading and editing.
 1. And always be sure to finish what
+
+Shamelesslessly plagiarized from 
+ http://www.plainlanguage.gov/examples/humor/writegood.cfm
