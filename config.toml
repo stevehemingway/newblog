@@ -9,7 +9,7 @@ disqusShortname = "stevehem"
 copyright = "(c) Steve Hemingway 2017"
 
 [params]
-	subtitle = "The blog of a geek manqué"
+	subtitle = "Thoughts about Knebworth, NHDC and (occasionally) software"
 	[params.author]
 		name = "Steve"
 		avatar = "/images/steve.jpg"
