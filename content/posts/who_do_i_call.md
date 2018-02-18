@@ -12,8 +12,10 @@ menu = "main"
 
 Tel: 01462-474000
 Email: service@north-herts.gov.uk
-Twitter: @NorthHertsDC
-Web: [www.north-herts.gov.uk](https://www.north-herts.gov.uk).
+Twitter: @NorthHertsDC  
+Web: [www.north-herts.gov.uk](https://www.north-herts.gov.uk)
+
+Contact NHDC about all the following:
 
 * Vandalism
 * Noise
@@ -24,7 +26,13 @@ Web: [www.north-herts.gov.uk](https://www.north-herts.gov.uk).
 * Abandoned or burned-out vehicles
 * Dog Fouling issues
 * Council Tax/Housing Benefit
+* NHDC Housing (for the following:)
+  * Actual or threatened homelessness
+  * Housing debt advice
+  * Advice on any housing issue
+  * Common Housing Register queries
 
+NHDC are responsible for parks and gardens in the towns in the District, but for these, call the contractor directly:
 
 ## NHDC Ground Maintenance Contractors
 
@@ -33,25 +41,11 @@ Web: [www.north-herts.gov.uk](https://www.north-herts.gov.uk).
 * Pest Control: 01462-436694
 * Urban Parks (not Knebworth)
 
-## NHDC Housing
-
-* Actual or threatened homelessness
-* Housing debt advice
-* Advice on any housing issue
-* Common Housing Register queries
-
-## North Herts Homes
-
-Tel: 01462-704100
-Web: [www.nhh.org.uk](https://www.nhh.org.uk)
-
-If you live in a NHH property, then use the above to:
-* report repairs
-* report anti-social behaviour
-* discuss rent payments
+---
+NHDC subcontract waste and street cleaning. Contact Veolia directly for these matters:
 
 ## NHDC Waste and Recycling and Street Cleaning
-Currently Veolia: Tel 0800 3286023
+Veolia: Tel 0800 3286023
 
 * Street cleaning
 * Litter and graffiti
@@ -60,9 +54,35 @@ Currently Veolia: Tel 0800 3286023
 * Fly tipping
 * Drugs paraphernalia such as discarded needles
 
+---
+
+## Knebworth Parish Council
+
+Tel: 01438-813795
+Web: [www.knebworthparishcouncil.gov.uk/](http://www.knebworthparishcouncil.gov.uk/)
+
+The Parish Council is responsible for the recreation grounds and the village hall in Knebworth.
+
+---
+NHDC sold its council house stock in 2004 to NHH. Call them and not NHDC for matters to do with homes the own:
+
+## North Herts Homes
+
+Tel: 01462-704100  
+Web: [www.nhh.org.uk](https://www.nhh.org.uk)
+
+If you live in a NHH property, then use the above to:
+* report repairs
+* report anti-social behaviour
+* discuss rent payments
+
+
+---
+The County Council is responsible for most other 'Council' functions in the District.
+
 ## Hertfordshire County Council
 
-Tel: 0300 1234047
+Tel: 0300 1234047  
 Web: [www.hertsdirect.org](https://www.hertsdirect.org)
 
 * Highways Fault Reporting (potholes, street lights, traffic lights, road signs, blocked storm drains)
@@ -72,9 +92,11 @@ Web: [www.hertsdirect.org](https://www.hertsdirect.org)
 * Libraries
 * Social Care
 
+The County Council have oversight of the Police and Fire Services:
+
 ## Hertfordshire Police
 
-In emergency, call 999 (or 112)
+In emergency, call 999 (or 112)  
 Non-emergency enquiries: 101.
 
 ## Hertfordshire Fire &amp; rescue
