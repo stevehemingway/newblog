@@ -1,11 +1,10 @@
 +++
 title = "Is Twitter the key Social Media Platform?"
 menu = "main"
-Categories = ["Council","Social_Media"]
-Tags = ["Council","Twitter"]
+Categories = ["Council", "Social_Media"]
+Tags = ["Council", "Twitter"]
 Description = "Is using Twitter worth it?"
 date = "2017-02-05T10:13:50Z"
-
 +++
 
 ## My experience of the Twittersphere
@@ -16,4 +15,3 @@ Although I have never tweeted anything very incendiary, and do not follow anyone
 Of late I've decided to integrate a bit more automation, using ifttt.com, and simply linking my Twitter account to a FB page. I'd previously auto tweeted from my Tumblr blog, but that never seemed to do any good.
 
 Anyway, for reasons quite beyond me, my follower numbers seem to be accelerating. The threat to close the Station Pub seems a catalyst. Maybe it's just that my odd retweet is enough to create a sustaining wave. I confess to paying a magnificent £10 to promote one tweet, but I don't think I'll be doing that again in a hurry, as there seems to be no way to localize the audience, in contrast to FB.
-

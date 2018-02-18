@@ -3,10 +3,31 @@
 title = "Helping Me"
 url = "/helping/"
 
-[[techie]]
-title = "Techie Stuff"
-url = "/techie_stuff/"
+[[links]]
+title = "2014 Posts"
+url = "/2014/"
 
 [[links]]
-title = "Me at NHDC"
-url =  "https://web.north-herts.gov.uk/aksnherts/users/public/admin/main.pl?op=MemberDetails&keyid=102"
+title = "2015 posts"
+url = "/2015/"
+
+[[links]]
+title = "2016 posts"
+url = "/2016/
+
+# create this when you've got more content in 2018
+#[[links]]
+#title = "2017 posts"
+#url = "/2017/"
+
+[[links]]
+title = "2018 posts"
+url = "/2018/"
+
+[[links]]
+ title = "Me at NHDC"
+url = "https://web.north-herts.gov.uk/aksnherts/users/public/admin/main.pl?op=MemberDetails&keyid=102"
+
+# [[links]]
+# title = "Techie Stuff"
+# url = "/techie_stuff/"

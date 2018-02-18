@@ -1,14 +1,14 @@
 +++
 date = "2017-04-06T09:42:12+01:00"
 title = "Toeing the Party Line"
-menu = "main"
+menu = "Party Line"
 Categories = ["politics","local plan"]
 Tags = ["Politics","Knebworth"]
 Description = "Letter from NHDC Concservatives Group Whip, Cllr. Julian Cunningham"
 
 +++
 
-The following letter appeared in the various North Herts editions of today's Comet newspaper. 
+The following letter appeared in the various North Herts editions of today's Comet newspaper.
 You can access the 'e-edition' (with some difficulty) via [this link](http://www.thecomet.net/home/e-edition).
 
 >Dear Sir,

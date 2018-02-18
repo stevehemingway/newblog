@@ -1,19 +1,19 @@
 baseurl = "https://stevehemingway.com"
 languageCode = "en-gb"
-title = "Steve Hemingway's blog"
+title = "Steve Hemingway's website"
 theme = "hpstr"
 pluralizelisttitles = false
 PygmentsCodeFences = true
 Paginate = 5
 disqusShortname = "stevehem"
-copyright = "(c) Steve Hemingway 2017"
+copyright = "(c) Steve Hemingway 2018"
 
 [params]
-	subtitle = "Thoughts about Knebworth, NHDC and (occasionally) software"
+	subtitle = "Thoughts about Knebworth, NHDC and other stuff"
 	[params.author]
 		name = "Steve"
 		avatar = "/images/steve.jpg"
-		bio = "Chemist, physicist, quant, family man, hack"
+		bio = "Scientist, quant, family man, programmer"
 		github = "stevehemingway/myblog-hugo"
 		linkedin = "//www.linkedin.com/in/stevehemingway"
 		twitter = "//twitter.com/steveknebworth"
@@ -21,4 +21,5 @@ copyright = "(c) Steve Hemingway 2017"
 	  feature = "/images/abstract-1.jpg"
 	  credit = "dargadgetz"
 	  creditlink = "http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/"
-			
+
+sectionPagesMenu = "Sections_Main"

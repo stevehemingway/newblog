@@ -1,7 +1,7 @@
 +++
 Description = "Knebworth Parish News October Newsletter"
 Title = "October 2017 Newsletter"
-date = 2017-09-19T11:42:35+01:00 
+date = 2017-09-19T11:42:35Z
 Tags = ["Politics", "Knebworth", "social media"]
 Categories = ["Knebworth", "NHDC"]
 menu = "main"
@@ -54,4 +54,3 @@ advanced stage. The contract will form the agenda for a joint meeting of
 the NHDC Cabinet and EHDC Executive Committee on Monday 16th October.
 For more details see the NHDC website. All Cabinet meetings are open to
 the public.
-

@@ -1,7 +1,7 @@
 +++
 Description = "August Newsletter - Knebworth Parish News"
 Title = "August Newsletter - Knebworth Parish News"
-date = 2017-07-17T12:37:56+01:00 
+date = "2017-07-17T12:37:56Z"
 Tags = ["Politics", "Knebworth", "social media"]
 Categories = ["Knebworth", "NHDC"]
 menu = "main"
@@ -23,4 +23,3 @@ One factor that will impact the new contract is the price of material for recycl
 For a contract of this size there is an obligation to go out to consultation. By the time you read this you should already have been invited to submit your comments. Watch out on NHDC social media sites for the link to an online survey. The consultation will seek the views of residents on how much they value the non-statutory services, such as collection of textiles, and whether they would value collection of batteries or Waste Electrical and Electronic Equipment ('WEEE'). It will seek to obtain a view on whether the current weekly collection from flats is justified, and whether or not a change to the commingling rules are needed (e.g. putting paper waste in the grey bins and getting rid of the blue boxes). There will also be questions on street cleansing.
 
 The survey is due to run from 17th July until the 4th Sept. The evaluation of responses will be done in time for Cabinet to make a decision (jointly with East Herts DC) at its September or October meeting. The new contract will run from 9th May 2018, so the whole timetable is really very tight. It is very important to get this contract right as the scope to vary it once it has been signed will be negligible.
-
