@@ -59,15 +59,3 @@ apartments for the frail elderly, including communal facilities and car
 parking along with ground floor commercial unit (Use A1, A2, A3, D1 or
 D2) fronting London Road. The deadline for responding to this is the 6th
 September.
-
-Please contact your NHDC councillors if you would like to discuss these
-or any other matters: **Steve Hemingway**, steve@stevehemingway.com or
-phone 01438 940594 (please include STD code when dialling) and **Steve
-Deakin-Davies**, stevedeakindavies@gmail.com or phone 07949 435435.
-
-Or be in touch directly with your County Councillor **Richard Thake**:
-richard.thake@hertfordshire.gov.uk, phone 07973 157605
-
-Or your Member of Parliament **Stephen McPartland**:
-stephen@stephenmcpartland.co.uk, Stephen McPartland MP, House of
-Commons, Westminster, London, SW1A 0AA

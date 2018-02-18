@@ -124,21 +124,3 @@ brought into line: not least the termination date of our current
 contracts, but also in some detailed aspects of waste and recycling. To
 let the contract will therefore take quite some time, but the decision
 has now been made to move forward with the tender process.
-
-Please contact your NHDC councillors if you would like to discuss these
-or any other matters:
-
-**Steve Hemingway, steve@stevehemingway.com or phone 01438 940594
-(please include STD code when dialling)**
-
-**Steve Deakin-Davies, stevedeakindavies@gmail.com or phone 07949 435435
-**
-
-Or be in touch directly with your County Councillor Richard Thake or
-your Member of Parliament Stephen McPartland:
-
-  - > Richard Thake, Herts County Council:
-    > richard.thake@hertfordshire.gov.uk, phone 07973 157605
-
-  - > Stephen McPartland MP: stephen@stephenmcpartland.co.uk, Stephen
-    > McPartland MP, House of Commons, Westminster, London, SW1A 0AA

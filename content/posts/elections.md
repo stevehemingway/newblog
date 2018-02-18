@@ -1,10 +1,10 @@
 +++
-Categories = ["legacy","legacy GoLang"]
+Categories = ["NHDC","Elections"]
 Description = "County Election Results 4 May 2017"
 Tags = ["Politics","Knebworth","social media"]
 date = "2017-05-05T09:51:37+01:00"
 menu = "main"
-title = "County Election Results 4 May 2017" 
+title = "County Election Results 4 May 2017"
 
 +++
 
@@ -15,4 +15,3 @@ Congratulations to Michael Muir, Judi Billing, David Barnard, Derek Ashley, Rich
 Also congratulations to Ray Shakespeare-Smith and Sarah Dingley in District bye-elections.
 
 For full results in North Herts visit [the NHDC website]( https://www.north-herts.gov.uk/home/elections-and-voting/election-results/election-results-2017).
-

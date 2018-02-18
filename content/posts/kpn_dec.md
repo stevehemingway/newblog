@@ -55,15 +55,3 @@ May I take this opportunity to wish you all a very Merry Christmas and a
 Happy New Year. Subscriptions for the Parish News become due again this
 month. Please encourage your neighbours to subscribe to this valuable
 resource, the only one of its kind for the village of Knebworth.
-
-Please contact your NHDC councillors if you would like to discuss these
-or any other matters: **Steve Hemingway**, steve@stevehemingway.com or
-phone 01438 940594 (please include STD code when dialling) and **Steve
-Deakin-Davies**, stevedeakindavies@gmail.com or phone 07949 435435.
-
-Or be in touch directly with your County Councillor **Richard Thake**:
-richard.thake@hertfordshire.gov.uk, phone 07973 157605
-
-Or your Member of Parliament **Stephen McPartland**:
-stephen@stephenmcpartland.co.uk, Stephen McPartland MP, House of
-Commons, Westminster, London, SW1A 0AA

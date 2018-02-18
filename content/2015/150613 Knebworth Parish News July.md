@@ -13,13 +13,3 @@ Grant applications for Knebworth groups will be reviewed by the Southern Rural C
 **Stevenage Borough Council – Consultation on Local Plan 2011-2031**
 
 As part of the development of the Stevenage Borough Local Plan 2011-2031, Stevenage Borough Council is undertaking a public consultation on SBC’s preferred housing target for the Borough which is increased to 7,600 homes. Their preferred approach would roll-back the Green Belt within SBC and for needs beyond 2031 would wish to work with neighbouring councils to review the Green Boundary. The consultation on this aspect of the Emerging Local Plan runs from 22<sup>nd</sup> June to 27 July 2015 and further information and how to submit a response can be found on SBC’s website under Planning Policy: http://www.stevenage.gov.uk/planning/planning-policy/
-
-Please contact me if you would like to discuss these or any other matters: **Steve Hemingway, Councillor for Knebworth on NHDC: steve@stevehemingway.com or phone 01438 940594 (please include STD code when dialling).**
-
-Please contact Steve if you need his help or to share your comments, or be in touch directly with your County Councillor Richard Thake or your Member of Parliament Stephen McPartland:
-
--   Richard Thake, Herts County Council: richard.thake@hertfordshire.gov.uk, 07973 157605
-
--   Stephen McPartland MP: stephen@stephenmcpartland.co.uk, Stephen McPartland MP, House of Commons, Westminster, London, SW1A 0AA
-
-

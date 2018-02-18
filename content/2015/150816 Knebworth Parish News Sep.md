@@ -15,13 +15,3 @@ The Secretary of State for the Department for Communities and Local Government h
 **Neighbourhood Plan Working Party – Any more volunteers?**
 
 I have one additional offer of help towards producing a Neighbourhood Plan for all (or part of) Knebworth Parish so we are still on track to convene an inaugural meeting in the Autumn. If you would like to get involved, especially if you have any professional expertise or involvement with Planning legislation, then please get in touch with me using the contact details below.
-
-Please contact me if you would like to discuss these or any other matters: **Steve Hemingway, Councillor for Knebworth on NHDC: steve@stevehemingway.com or phone 01438 940594 (please include STD code when dialling).**
-
-Please contact Steve if you need his help or to share your comments, or be in touch directly with your County Councillor Richard Thake or your Member of Parliament Stephen McPartland:
-
--   Richard Thake, Herts County Council: richard.thake@hertfordshire.gov.uk, 07973 157605
-
--   Stephen McPartland MP: stephen@stephenmcpartland.co.uk, Stephen McPartland MP, House of Commons, Westminster, London, SW1A 0AA
-
-You can find contact details of your MEPs here: http://www.europarl.org.uk/en/your-meps/uk\_meps/eastern\_region.html

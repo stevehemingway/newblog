@@ -65,18 +65,3 @@ the many years of service.
 
 I will be attending the Annual Parish Meeting on 4<sup>th</sup> May.
 Please see the article from the Parish Council for more details.
-
-Please contact me if you would like to discuss these or any other
-matters: **Steve Hemingway, Councillor for Knebworth on NHDC:
-steve@stevehemingway.com or phone 01438 940594 (please include STD code
-when dialling).**
-
-Please contact Steve if you need his help or to share your comments, or
-be in touch directly with your County Councillor Richard Thake or your
-Member of Parliament Stephen McPartland:
-
-  - > Richard Thake, Herts County Council:
-    > richard.thake@hertfordshire.gov.uk, 07973 157 605
-
-  - > Stephen McPartland MP: stephen@stephenmcpartland.co.uk, Stephen
-    > McPartland MP, House of Commons, Westminster, London, SW1A 0AA

@@ -58,21 +58,3 @@ centre managers have been invited to give their views to the executive
 member for Policy, Transport and Green Issues. The consultation is
 expected to go on for several months and I will update you when I have
 more details.
-
-Please contact your NHDC councillors if you would like to discuss these
-or any other matters:
-
-**Steve Hemingway, steve@stevehemingway.com or phone 01438 940594
-(please include STD code when dialling)**
-
-**Steve Deakin-Davies, stevedeakindavies@gmail.com or phone 07949 435435
-**
-
-Or be in touch directly with your County Councillor Richard Thake or
-your Member of Parliament Stephen McPartland:
-
-  - > Richard Thake, Herts County Council:
-    > richard.thake@hertfordshire.gov.uk, phone 07973 157605
-
-  - > Stephen McPartland MP: stephen@stephenmcpartland.co.uk, Stephen
-    > McPartland MP, House of Commons, Westminster, London, SW1A 0AA
