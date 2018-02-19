@@ -1,7 +1,7 @@
 
-[[links]]
-title = "Helping Me"
-url = "/helping/"
+#[[links]]
+#title = "Helping Me"
+#url = "/helping/"
 
 [[links]]
 title = "2014"
@@ -16,9 +16,9 @@ title = "2016"
 url = "/2016/"
 
 # create this when you've got more content in 2018
-#[[links]]
-#title = "2017"
-#url = "/2017/"
+[[links]]
+title = "2017"
+url = "/2017/"
 
 [[links]]
 title = "2018"
