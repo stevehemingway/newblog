@@ -13,10 +13,10 @@ copyright = "(c) Steve Hemingway 2018"
 	[params.author]
 		name = "Steve"
 		avatar = "/images/steve.jpg"
-		bio = "Scientist, quant, family man, programmer, councillor"
+		bio = "family man, programmer, councillor, geek"
 		github = "stevehemingway/myblog-hugo"
-		linkedin = "//www.linkedin.com/in/stevehemingway"
-		twitter = "//twitter.com/steveknebworth"
+		linkedin = "stevehemingway"
+		twitter = "steveknebworth"
 		NHDC = "//web.north-herts.gov.uk/aksnherts/users/public/admin/main.pl?op=MemberDetails&keyid=102"
 	[params.image]
 	  feature = "/images/Kneb_field.jpg"

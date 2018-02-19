@@ -4,7 +4,7 @@ title = "JUNE UPDATE"
 menu = "2016"
 +++
 
-# JUNE UPDATE
+
 
 # Welcome to Steve Deakin-Davies, New NHDC Councillor for Knebworth
 

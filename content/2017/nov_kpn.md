@@ -7,7 +7,7 @@ Categories = ["Knebworth", "NHDC"]
 menu = "main"
 +++
 
-# NORTH HERTFORDSHIRE DISTRICT COUNCIL  NOVEMBER UPDATE
+
 
 # Complexities of the Planning Process  An On-Going Case
 

@@ -4,7 +4,7 @@ title = "October Article"
 Description = "Surgery, Solar Farm, Cricket Club, Grants, Norton Green"
 menu = "main"
 +++
-# OCTOBER UPDATE
+
 
 # Planning Matters
 

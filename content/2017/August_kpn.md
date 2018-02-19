@@ -6,7 +6,7 @@ Tags = ["Politics", "Knebworth", "social media"]
 Categories = ["Knebworth", "NHDC"]
 menu = "main"
 +++
-# AUGUST UPDATE
+
 
 # Station Pub Planning Application
 

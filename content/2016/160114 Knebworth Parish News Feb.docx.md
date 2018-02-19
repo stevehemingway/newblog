@@ -3,9 +3,9 @@ date = "2016-02-01"
 title = "FEBRUARY UPDATE"
 menu = "2016"
 +++
-# FEBRUARY UPDATE
 
-**Flooding**  
+
+## Flooding
 December and January have seen extremely heavy rain falling, seemingly
 without respite. The consequences are that the gullies around the
 village have struggled to take the flow, and we have come perilously
@@ -15,14 +15,14 @@ Cemetery in Wadnall Way have been temporarily submerged. NHDC is aware
 of the problem and have taken steps to inspect the site with, as yet, no
 solution proposed.  
 
-**Council Tax**  
+## Council Tax
 The NHDC financial team are busy preparing a final budget for 2016-17.
 There are a number of uncertainties around the amount of money available
 from central taxation: the so called ‘Revenue Support Grant’. A number
 of decisions around this are scheduled to be made at Cabinet this month.
 It is likely that more efficiency savings will be made.  
 
-**Syrian Refugees**  
+## Syrian Refugees
 The NHDC Cabinet decided in December that Syrian refugees Hertfordshire
 will be welcomed under the terms of a resettlement scheme recommended by
 the Home Office if they decide to come to North Herts. Full council

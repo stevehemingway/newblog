@@ -4,9 +4,11 @@ title = "DECEMBER UPDATE"
 menu = "2016"
 +++
 
-# DECEMBER UPDATE
+
 
 ## Rail Services from Knebworth - Timetable Consultation
+
+Consultation has finished.
 
 The consultation for the timetable for Govia Thameslink Railways is
 on-going but will close at 17:00 on 8th December. The proposals
@@ -51,10 +53,5 @@ operator. A number of you have noticed how unsatisfactory the current
 system is. I encourage you to try the new one and send your feed back to
 me or to NHDC at service@north-herts.gov.uk.
 
-# NHDC Parking Strategy Consultation
-
-The District parking strategy consultation is getting started. Town
-centre managers have been invited to give their views to the executive
-member for Policy, Transport and Green Issues. The consultation is
-expected to go on for several months and I will update you when I have
+ you when I have
 more details.

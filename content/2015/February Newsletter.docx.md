@@ -7,7 +7,7 @@ Categories = ["Knebworth", "NHDC"]
 menu = "2015"
 +++
 
-# February Update
+
 
 ## Future of the Knebworth GP Surgery
 

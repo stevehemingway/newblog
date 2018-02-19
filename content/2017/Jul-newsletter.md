@@ -7,7 +7,7 @@ Categories = ["Knebworth", "NHDC"]
 menu = "main"
 +++
 
-# JULY UPDATE
+
 
 We have had a long period of elections, with the General Election following closely on the heels of the County elections. Stephen McPartland was re-elected as the Member of Parliament for Stevenage, which includes Knebworth, Codicote, Datchworth and Aston. Let us hope that Westminster MPs from all constituencies from across the country focus on the job in hand: which is to make the laws that will shape society in the country for years to come. A finely balanced parliament should help encourage more scrutiny of legislation, not least that which will arise as a result of the Brexit negotiations.
 

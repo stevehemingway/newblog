@@ -39,7 +39,7 @@ call 0844 571 4444 or visit
 # NHDC Local Plan - Examination
 ---------------------------------
 
-[]{#bin-collection-over-the-holiday-period .anchor}The Examination in
+The Examination in
 Public of the Local Plan started on the 13th November, the Inspector is
 Simon Berkeley. The first couple of weeks focus on strategic matters,
 such as the duty of NHDC to cooperate with adjoining authorities to take
