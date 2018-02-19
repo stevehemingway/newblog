@@ -7,7 +7,7 @@ Categories = ["Knebworth", "NHDC"]
 menu = "2015"
 +++
 
-**NORTH HERTFORDSHIRE DISTRICT COUNCIL – NOVEMBER UPDATE**
+**NOVEMBER UPDATE**
 
 **NHDC introduces Noise App to help deal with noise nuisance **
 

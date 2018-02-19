@@ -1,7 +1,7 @@
 +++
 Description = "Year of Physical Activity"
 Title = "Herfordshire Year of Physical Activity"
-date = 2017-11-16T15:26:52Z 
+date = 2017-11-16T15:26:52Z
 Tags = ["Politics", "Knebworth", "social media"]
 Categories = ["Knebworth", "NHDC", "HCC"]
 menu = "main"
@@ -59,7 +59,8 @@ pleased to offer advice and point you in the right direction.
 
 **Some useful funding streams...**
 
-**Herts County Council Locality Budgets\
+**Herts County Council Locality Budgets**
+
 **The County Council through its commitment to localism is seeking to
 increase the opportunities for local councillors and communities to
 decide how money is spent in their community. Each elected member of the

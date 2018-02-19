@@ -5,7 +5,7 @@ Tags = ["Politics", "Knebworth", "social media"]
 Categories = ["Knebworth", "NHDC"]
 menu = "main"
 +++
-**NORTH HERTFORDSHIRE DISTRICT COUNCIL -- DECEMBER UPDATE**
+** DECEMBER UPDATE**
 
 **New Contract for Waste Collection**
 -------------------------------------

@@ -6,7 +6,7 @@ Tags = ["Politics", "Knebworth", "social media"]
 Categories = ["Knebworth", "NHDC"]
 menu = "main"
 +++
-**NORTH HERTFORDSHIRE DISTRICT COUNCIL – AUGUST UPDATE**
+**AUGUST UPDATE**
 
 **Station Pub Planning Application**
 

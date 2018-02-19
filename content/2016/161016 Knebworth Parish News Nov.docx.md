@@ -1,10 +1,10 @@
 +++
 date = "2016-11-01"
-title = "NORTH HERTFORDSHIRE DISTRICT COUNCIL – NOVEMBER UPDATE"
+title = "NOVEMBER UPDATE"
 menu = "2016"
 +++
 
-**NORTH HERTFORDSHIRE DISTRICT COUNCIL – NOVEMBER UPDATE**
+**NOVEMBER UPDATE**
 
 **NHDC Local Plan – Public Consultation Period 19th October
 to end November **

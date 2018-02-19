@@ -7,7 +7,7 @@ menu = "main"
 title = "June Update" 
 +++
 
-**NORTH HERTFORDSHIRE DISTRICT COUNCIL – JUNE UPDATE**
+**JUNE UPDATE**
 
 On 4th May, elections were held for the County Council. Richard Thake was re-elected to represent Knebworth, as well as Codicote, St Pauls Walden, Kimpton, Wymondley and St Ippolyts. 
 

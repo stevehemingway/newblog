@@ -1,10 +1,10 @@
 +++
 date = "2016-06-01"
-title = "NORTH HERTFORDSHIRE DISTRICT COUNCIL – JUNE UPDATE"
+title = "JUNE UPDATE"
 menu = "2016"
 +++
 
-**NORTH HERTFORDSHIRE DISTRICT COUNCIL – JUNE UPDATE**
+**JUNE UPDATE**
 
 **Welcome to Steve Deakin-Davies, New NHDC Councillor for Knebworth**
 
@@ -20,8 +20,6 @@ helping young people get a start in life as entrepreneurs, and works as
 a lecturer and mentor at the University of Hertfordshire, helping set up
 and develop a range of businesses. Steve also has an interest in health
 matters, and previously work as a nurse at the Lister Hospital.
-
-Please contact Steve using the contact details below.
 
 **NHDC New Civic Year**
 

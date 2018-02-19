@@ -1,9 +1,9 @@
 +++
 date = "2016-05-01"
-title = "NORTH HERTFORDSHIRE DISTRICT COUNCIL – MAY UPDATE"
+title = "MAY UPDATE"
 menu = "2016"
 +++
-**NORTH HERTFORDSHIRE DISTRICT COUNCIL – MAY UPDATE**
+**MAY UPDATE**
 
 **NHDC Emerging Local Plan**
 

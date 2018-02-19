@@ -1,9 +1,9 @@
 +++
 date = "2016-02-01"
-title = "NORTH HERTFORDSHIRE DISTRICT COUNCIL – FEBRUARY UPDATE"
+title = "FEBRUARY UPDATE"
 menu = "2016"
 +++
-**NORTH HERTFORDSHIRE DISTRICT COUNCIL – FEBRUARY UPDATE**
+**FEBRUARY UPDATE**
 
 **Flooding**  
 December and January have seen extremely heavy rain falling, seemingly

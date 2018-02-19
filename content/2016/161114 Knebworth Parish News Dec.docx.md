@@ -1,10 +1,10 @@
 +++
 date = "2016-12-01"
-title = "NORTH HERTFORDSHIRE DISTRICT COUNCIL – DECEMBER UPDATE"
+title = "DECEMBER UPDATE"
 menu = "2016"
 +++
 
-**NORTH HERTFORDSHIRE DISTRICT COUNCIL – DECEMBER UPDATE**
+**DECEMBER UPDATE**
 
 ## Rail Services from Knebworth - Timetable Consultation
 

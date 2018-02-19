@@ -6,7 +6,7 @@ Tags = ["Politics", "Knebworth", "social media"]
 Categories = ["Knebworth", "NHDC"]
 menu = "main"
 +++
-**NORTH HERTFORDSHIRE DISTRICT COUNCIL – SEPTEMBER UPDATE**
+**SEPTEMBER UPDATE**
 
 **Public Consultation on Revoking of NHDC Byelaws**
 

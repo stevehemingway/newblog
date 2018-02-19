@@ -4,7 +4,7 @@ title = "October Article"
 Description = "Surgery, Solar Farm, Cricket Club, Grants, Norton Green"
 menu = "main"
 +++
-**NORTH HERTFORDSHIRE DISTRICT COUNCIL – OCTOBER UPDATE**
+**OCTOBER UPDATE**
 
 # Planning Matters
 

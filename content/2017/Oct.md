@@ -5,7 +5,7 @@ Tags = ["Politics", "Knebworth", "social media"]
 Categories = ["Knebworth", "NHDC"]
 menu = "main"
 +++
-**NORTH HERTFORDSHIRE DISTRICT COUNCIL – OCTOBER UPDATE**
+**OCTOBER UPDATE**
 
 **NHDC Corporate Plan Approved**
 

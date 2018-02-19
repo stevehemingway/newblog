@@ -5,7 +5,7 @@ Tags = ["Politics", "Knebworth", "social media"]
 Categories = ["Knebworth", "NHDC"]
 menu = "main"
 +++
-**NORTH HERTFORDSHIRE DISTRICT COUNCIL – JANUARY UPDATE**
+**JANUARY UPDATE**
 
 **Garden Waste Bins**
 ---------------------

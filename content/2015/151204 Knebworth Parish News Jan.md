@@ -7,7 +7,7 @@ Categories = ["Knebworth", "NHDC"]
 menu = "2015"
 +++
 
-**NORTH HERTFORDSHIRE DISTRICT COUNCIL – JANUARY UPDATE**
+**JANUARY UPDATE**
 
 # NHDC Local Plan - Preferred Options Consultation
 

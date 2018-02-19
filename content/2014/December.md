@@ -4,7 +4,7 @@ title = "December Article"
 Description = "Waste Collection, Local Plan"
 menu = "2014"
 +++
-**NORTH HERTFORDSHIRE DISTRICT COUNCIL – DECEMBER
+**DECEMBER
 UPDATE**
 
 # NHDC Waste Collection

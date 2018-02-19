@@ -7,7 +7,7 @@ Categories = ["Knebworth", "NHDC"]
 menu = "2015"
 +++
 
-**NORTH HERTFORDSHIRE DISTRICT COUNCIL – SEPTEMBER UPDATE**
+**SEPTEMBER UPDATE**
 
 **NHDC – In the Summer** **time**
 

@@ -1,13 +1,13 @@
 +++
 Description = "Dec Newsletter"
 Title = "Local Plan, Brown Bins, Dec Newsletter"
-date = 2017-11-16T15:26:52Z
+date = 2017-12-01T15:26:52Z
 Tags = ["Politics", "Knebworth", "social media"]
 Categories = ["Knebworth", "NHDC", "HCC"]
 menu = "main"
 +++
 
-**NORTH HERTFORDSHIRE DISTRICT COUNCIL -- DECEMBER UPDATE**
+**DECEMBER UPDATE**
 
 **New Contract for Waste Collection**
 -------------------------------------
