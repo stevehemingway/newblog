@@ -1,12 +1,33 @@
 
-[[links]]
-title = "Theme Setup"
-url = "/theme-setup/"
-
-[[techie]]
-title = "Techie Stuff"
-url = "/techie_stuff/"
+#[[links]]
+#title = "Helping Me"
+#url = "/helping/"
 
 [[links]]
-title = "Me at NHDC"
-url =  "https://web.north-herts.gov.uk/aksnherts/users/public/admin/main.pl?op=MemberDetails&keyid=102"
+title = "2014"
+url = "/2014/"
+
+[[links]]
+title = "2015"
+url = "/2015/"
+
+[[links]]
+title = "2016"
+url = "/2016/"
+
+# create this when you've got more content in 2018
+[[links]]
+title = "2017"
+url = "/2017/"
+
+[[links]]
+title = "2018"
+url = "/2018/"
+
+#[[links]]
+# title = "Me at NHDC"
+# url = "https://web.north-herts.gov.uk/aksnherts/users/public/admin/main.pl?op=MemberDetails&keyid=102"
+
+# [[links]]
+# title = "Techie Stuff"
+# url = "/techie_stuff/"

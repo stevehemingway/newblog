@@ -1,6 +1,9 @@
 +++
-Description = ""
+Description = "My Latest Post"
+title = "{{ replace .TranslationBaseName "-" " " | title }}"
+date = {{ .Date }} 
 Tags = ["Politics", "Knebworth", "social media"]
-Categories = ["legacy", "legacy GoLang"]
+Categories = ["Knebworth", "NHDC"]
 menu = "main"
+
 +++
