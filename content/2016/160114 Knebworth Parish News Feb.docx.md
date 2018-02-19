@@ -3,7 +3,7 @@ date = "2016-02-01"
 title = "FEBRUARY UPDATE"
 menu = "2016"
 +++
-**FEBRUARY UPDATE**
+# FEBRUARY UPDATE
 
 **Flooding**  
 December and January have seen extremely heavy rain falling, seemingly

@@ -10,7 +10,7 @@ menu = "main"
 
 # Funding Fact Sheet
 
-**2018 will be the Year of Physical Activity in Hertfordshire -- an
+2018 will be the Year of Physical Activity in Hertfordshire -- an
 initiative being led by Hertfordshire's 10 District and Borough
 Councils, Public Health Hertfordshire and the Herts Sports and Physical
 Activity Partnership. The year will be kicking off on January 1st.**

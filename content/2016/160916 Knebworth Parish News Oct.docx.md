@@ -4,9 +4,9 @@ title = "OCTOBER UPDATE"
 menu = "2016"
 +++
 
-**OCTOBER UPDATE**
+# OCTOBER UPDATE
 
-**NHDC Draft Local Plan **
+# NHDC Draft Local Plan 
 
 **Introduction:** Last month I wrote about the development sites
 allocated to Knebworth in the Local Plan. This month I will look at the

@@ -1,9 +1,10 @@
 +++
-date = "2017-03-09T15:36:40Z"
+date = "2014-08-01T15:36:40Z"
 title = "August Newsletter"
 Description = "Local Plan, Fun Day, Parking, Village Trust, Norton Green"
 menu = "main"
 +++
+
 ## Letchworth Update
 
 The work of the council does not stop over the summer, although it does

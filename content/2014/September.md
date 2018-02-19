@@ -7,6 +7,7 @@ Categories = ["Knebworth", "NHDC", "Planning"]
 menu = "2014"
 +++
 
+# Swangley's Farm Solar PV
 
 As you may already be aware, there is a proposal to build a 'solar farm'
 on one of the fields comprising Swangley's Farm. This will involve

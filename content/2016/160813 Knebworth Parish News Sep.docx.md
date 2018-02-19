@@ -3,9 +3,9 @@ date = "2016-09-01"
 title = "SEPTEMBER UPDATE"
 menu = "2016"
 +++
-**SEPTEMBER UPDATE**
+# SEPTEMBER UPDATE
 
-**NHDC Draft Local Plan **
+# NHDC Draft Local Plan 
 
 **Update on Process:** Last month I highlighted the extraordinary
 meeting of the Council to endorse the proposed emerging (or draft) Local
@@ -110,7 +110,7 @@ submission to the Planning Inspector will happen in the first part of
 2017 and approval of the plan will be some time after that, possibly not
 until 2018.
 
-**Joint Waste Collection and Street Cleaning Contract**
+# Joint Waste Collection and Street Cleaning Contract
 
 A contract for waste collection and street cleansing in the District is
 not the most exciting topic imaginable. However, it does account for

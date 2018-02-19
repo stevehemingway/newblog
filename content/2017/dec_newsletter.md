@@ -10,7 +10,6 @@ menu = "main"
 ## New Contract for Waste Collection
 
 
-
 NHDC is progressing with the new contract for the household waste
 collection service, jointly with East Herts. The winning bidder was a
 company called Urbaser who, while new to North Herts are the third
@@ -37,7 +36,7 @@ Hertfordshire residents at subsidized prices. To order a compost bin
 call 0844 571 4444 or visit
 [www.herts.getcomposting.com](http://www.herts.getcomposting.com).
 
-**NHDC Local Plan - Examination**
+# NHDC Local Plan - Examination
 ---------------------------------
 
 []{#bin-collection-over-the-holiday-period .anchor}The Examination in
@@ -56,7 +55,7 @@ morning of Monday 26th February. These sessions are all open to the
 public and are held in the Icknield Centre, Icknield Way in Letchworth.
 Full details are on NHDC's website.
 
-**Merry Christmas**
+# Merry Christmas
 -------------------
 
 May I take this opportunity to wish you all a very Merry Christmas and a

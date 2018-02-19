@@ -3,9 +3,9 @@ date = "2016-05-01"
 title = "MAY UPDATE"
 menu = "2016"
 +++
-**MAY UPDATE**
+# MAY UPDATE
 
-**NHDC Emerging Local Plan**
+# NHDC Emerging Local Plan
 
 The process of producing the new Local Plan for the North Herts District
 is progressing. The record number of over 8,000 responses to the
@@ -43,7 +43,7 @@ lane. The three sites would comprise 79 potential dwellings in all, but
 *only* if the sites are found to have met the criteria for inclusion. No
 decision on this have yet been made.
 
-**Knebworth GP Surgery**
+# Knebworth GP Surgery
 
 I am regularly asked about the status of the new GP surgery. As I
 understand it, a planning application is due to be made this month,
@@ -52,7 +52,7 @@ in a cabinet meeting scheduled for 28<sup>th</sup> April. I understand
 the impatience that people feel about this, but emphasise that NHDC is
 not responsible for the delays.
 
-**Thank you to retiring Councillor Alan Bardett**
+# Thank you to retiring Councillor Alan Bardett
 
 After serving as a District Councillor for over 14 years, Alan Bardett
 has decided to retire and therefore not seek re-election in this year’s
@@ -61,7 +61,7 @@ the ropes and giving me advice when I was a new councillor only two
 years ago, as well as for all his efforts on behalf of our village over
 the many years of service.
 
-**Annual Parish Meeting – Wednesday, 4<sup>th</sup> May**
+# Annual Parish Meeting – Wednesday, 4<sup>th</sup> May
 
 I will be attending the Annual Parish Meeting on 4<sup>th</sup> May.
 Please see the article from the Parish Council for more details.

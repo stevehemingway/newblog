@@ -3,7 +3,7 @@ date = "2016-07-01"
 title = "JULY UPDATE"
 menu = "2016"
 +++
-**JULY UPDATE**
+# JULY UPDATE
 
 **NHDC Grants Policy:** NHDC awards grants every year of around half a
 million pounds. The existing policy for determining eligibility for

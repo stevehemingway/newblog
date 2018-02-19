@@ -7,7 +7,7 @@ menu = "main"
 title = "June Update" 
 +++
 
-**JUNE UPDATE**
+# JUNE UPDATE
 
 On 4th May, elections were held for the County Council. Richard Thake was re-elected to represent Knebworth, as well as Codicote, St Pauls Walden, Kimpton, Wymondley and St Ippolyts. 
 
@@ -21,7 +21,7 @@ Inevitably, there is scope for developer and objector to disagree on exactly wha
 
 Although there seems to be a view that once a Plan is adopted, there is nothing further that residents can do to shape development, this is not the case. Individual applications will still have to be reviewed as part of the Planning Control process, which gives residents a say in what ends up being built. Objectors have been successful in blocking, or causing major modifications of several applications recently. Applications for solar farms on two Green Belt sites were refused or abandoned. Even if an application is granted, it may be possible for residents to make the grant subject to the developer taking prescribed actions. For example, he may be required to fund to local infrastructure.
 
-**Draft Local Plan – Public Inquiry**
+# Draft Local Plan – Public Inquiry
 
 NHDC voted in April to proceed with the formal submission of the Draft Local Plan to the Secretary of State, which should have been done during May.  The independent examination through a public inquiry is expected to take place between September and December this year. If the Inspector proposes Main Modifications, there will be a further public consultation on these, between February and March 2018. The final inspector’s report is expected in about a year's time, with adoption scheduled for June 2018.
 

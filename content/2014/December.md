@@ -4,10 +4,8 @@ title = "December Article"
 Description = "Waste Collection, Local Plan"
 menu = "2014"
 +++
-**DECEMBER
-UPDATE**
 
-# NHDC Waste Collection
+## NHDC Waste Collection
 
 > David Percival in last month's Parish News commented: "contracted refuse collectors routinely dump emptied wheelie bins at random on pavements all around our village". I contacted the officer at NHDC responsible for the waste and recycling contract with Veolia and this is what she wrote about the contract:
 
@@ -28,7 +26,8 @@ notice any problems they can contact the NHDC helpdesk on 0800 328 6023
 who will monitor the level of complaints from Knebworth. Alternatively
 feel free to contact me about this directly.
 
-**North Hertfordshire Local Plan**  
+## North Hertfordshire Local Plan
+
 NHDC is due to vote on moving to the next stage in the production of the
 Local Plan at its meeting on 27th November. This will approve the Local
 Development Scheme which sets out the timetable for consultation, but
@@ -40,7 +39,7 @@ from early December through to the first week of February (these are
 provisional dates and are still to be confirmed). Full information about
 the proposals will be available in the Library and on the NHDC website.
 
-# Planning Matters - Update
+## Planning Matters - Update
 
 *Solar Farm PV Applications*: The Swangley’s Lane application was due to
 be discussed by NHDC Planning Control at its committee meeting on

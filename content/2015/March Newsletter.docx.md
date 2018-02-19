@@ -1,13 +1,15 @@
 +++
 Description = "March Newsletter 2015"
-Title = "Knebworth UpdateMarch"
+Title = "Update March"
 date = 2015-03-01T15:26:52Z
 Tags = ["Politics", "Knebworth" ]
 Categories = ["Knebworth", "NHDC"]
 menu = "2015"
 +++
 
-# Swangley's Farm Solar PV
+# March
+
+## Swangley's Farm Solar PV
 
 The proposed solar farm at Swangley's Farm has been 'called in'. It will
 be referred to the Secretary of State for the Dept. for Communities and
@@ -17,7 +19,7 @@ Council. Documents relating to the application will now have to be
 examined by the Planning Inspectorate. As of the time of writing, it is
 not clear how long this process will take.
 
-# NHDC Council Tax
+## NHDC Council Tax
 
 At the District Council of the 12th February it was decided to increase
 its proportion of Council tax by 1.9%, or £3.88 for a Band D property in
@@ -26,7 +28,7 @@ becomes £208.01. The balance of what you pay on your Council Tax is made
 up of contributions to the Parish, the Police and the County, in order
 of increasing cost, for the important services they provide to us all.
 
-# Welwyn Hatfield Local Plan Consultation
+## Welwyn Hatfield Local Plan Consultation
 
 Welwyn Hatfield has started consulting on its Local Plan. Responses must
 be submitted by the 20th March, so there is still time for you to

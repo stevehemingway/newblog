@@ -5,9 +5,9 @@ Tags = ["Politics", "Knebworth", "social media"]
 Categories = ["Knebworth", "NHDC"]
 menu = "main"
 +++
-**OCTOBER UPDATE**
+# OCTOBER UPDATE
 
-**NHDC Corporate Plan Approved**
+# NHDC Corporate Plan Approved
 
 The NHDC Corporate Plan was approved at the Council Meeting this month.
 It has, in addition to specifying how the Council plans to deliver its
@@ -20,7 +20,7 @@ an even greater increase in number of unpaid carers, some of whom are
 themselves elderly. Around 2,500 residents (out of a total of 131,000)
 say they already provide 50 hours or more of unpaid care per week.
 
-**Access to Social Housing and Help for Homeless**
+# Access to Social Housing and Help for Homeless
 
 NHDC has a duty to help homeless individuals and families find somewhere
 to live, even though it handed its housing stock over to North Herts
@@ -38,7 +38,7 @@ which operate in North Herts in addition to North Herts Homes. To find
 out more, search for 'Common Housing Register' in the NHDC website or
 call 01438 474000 and ask to speak to the Housing Dept.
 
-**Welwyn Hatfield Local Plan in Public Examination **
+# Welwyn Hatfield Local Plan in Public Examination 
 
 The Examination in Public of the Welwyn Hatfield Local Plan has started:
 the first meeting was scheduled for the 21st Sept. North Herts are
@@ -46,7 +46,7 @@ somewhat behind its southerly neighbour, but the examination of its plan
 is imminent. The Local Development Scheme states that it should be
 complete by the end of December.
 
-**NHDC Waste & Street Cleaning Contract - Update**
+# NHDC Waste & Street Cleaning Contract - Update
 
 Negotiations on the new Waste and Street Cleaning Contract are at an
 advanced stage. The contract will form the agenda for a joint meeting of

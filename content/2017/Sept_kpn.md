@@ -6,9 +6,9 @@ Tags = ["Politics", "Knebworth", "social media"]
 Categories = ["Knebworth", "NHDC"]
 menu = "main"
 +++
-**SEPTEMBER UPDATE**
+# SEPTEMBER UPDATE
 
-**Public Consultation on Revoking of NHDC Byelaws**
+# Public Consultation on Revoking of NHDC Byelaws
 
 NHDC has reviewed its byelaws, some of which date back to the 19th
 Century, and have no relevance today. The recommendation is to revoke
@@ -28,7 +28,7 @@ September. Details can be accessed via the website and copies of the
 survey, council report and the byelaws schedule are available at the
 NHDC reception desk upon request during normal office hours.
 
-**Upgrade to NHDC’s Planning Portal Software**
+# Upgrade to NHDC’s Planning Portal Software
 
 Readers will be pleased to learn that NHDC has upgraded its planning
 portal software. The system does not look noticeably different, but it
