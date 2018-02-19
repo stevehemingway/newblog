@@ -1,6 +1,6 @@
 +++
 Description = "July Newsletter 2015"
-Title = "Knebworth Parish News Article July"
+Title = "Knebworth UpdateJuly"
 date = 2015-07-01T15:26:52Z
 Tags = ["Politics", "Knebworth" ]
 Categories = ["Knebworth", "NHDC"]

@@ -7,10 +7,9 @@ Categories = ["Knebworth", "NHDC", "HCC"]
 menu = "main"
 +++
 
-**DECEMBER UPDATE**
+## New Contract for Waste Collection
 
-**New Contract for Waste Collection**
--------------------------------------
+
 
 NHDC is progressing with the new contract for the household waste
 collection service, jointly with East Herts. The winning bidder was a
