@@ -1,20 +1,20 @@
 +++
 Description = "Year of Physical Activity"
 Title = "Herfordshire Year of Physical Activity"
-date = 2017-11-16T15:26:52Z 
+date = 2017-11-16T15:26:52Z
 Tags = ["Politics", "Knebworth", "social media"]
 Categories = ["Knebworth", "NHDC", "HCC"]
 menu = "main"
 +++
 
-**Hertfordshire Year of Physical Activity 2018**
+# Hertfordshire Year of Physical Activity 2018
 
-Funding Fact Sheet
+## Funding Fact Sheet
 
 **2018 will be the Year of Physical Activity in Hertfordshire -- an
 initiative being led by Hertfordshire's 10 District and Borough
 Councils, Public Health Hertfordshire and the Herts Sports and Physical
-Activity Partnership. The year will be kicking off on January 1^st^.**
+Activity Partnership. The year will be kicking off on January 1st.**
 
 The aim of the project is to make Hertfordshire, England's most active
 county and in doing so, help to shift some of the stubborn inactivity
@@ -57,10 +57,11 @@ wish to talk through any ideas please feel free to contact the HYOPA18
 Project Coordinator Jane Parker on <j.parker20@herts.ac.uk> who will be
 pleased to offer advice and point you in the right direction.
 
-**Some useful funding streams...**
+## Some useful funding streams...
 
-**Herts County Council Locality Budgets\
-**The County Council through its commitment to localism is seeking to
+### **Herts County Council Locality Budgets**
+
+The County Council through its commitment to localism is seeking to
 increase the opportunities for local councillors and communities to
 decide how money is spent in their community. Each elected member of the
 County Council has £10,000 to spend on worthwhile projects in their
@@ -71,15 +72,17 @@ that can achieve local benefits may be well received.
 Further details
 <http://www.hertsdirect.org/your-council/localitybudgetscheme/membrlocalbdgt/>
 
-**Sport England Small Grants - £300 - £10,000\
-**Small Grants uses Lottery funding to make awards of between £300 and
+### **Sport England Small Grants - £300 - £10,000**
+
+Small Grants uses Lottery funding to make awards of between £300 and
 £10,000 to not-for-profit organisations to help more people play sport
 and become active
 
 Further details <https://www.sportengland.org/funding/small-grants/>
 
-**Big Lottery Awards for All Small Grants programme £300 - £10,000\
-**Awards for All is a small grants programme provided by the Big Lottery
+### **Big Lottery Awards for All Small Grants programme £300 - £10,000 **
+
+Awards for All is a small grants programme provided by the Big Lottery
 Fund with the aim of funding projects that will improve the quality of
 life for local communities.
 
@@ -92,16 +95,18 @@ Applications may be submitted at any time
 Further details
 <https://www.biglotteryfund.org.uk/global-content/programmes/england/awards-for-all-england>
 
-**Podium Partners -- Crowdfunding\
-**The Herts Sports Partnership (HSP) and the Hertfordshire Sports
+### **Podium Partners -- Crowdfunding**
+
+The Herts Sports Partnership (HSP) and the Hertfordshire Sports
 Village have linked with Podium Partners to launch this new and
 innovative crowd-funding service for the benefit of those playing and
 involved in sport and physical activity in Hertfordshire.
 
 Further details <https://www.podiumpartners.org/>
 
-**District and Borough Council's Community Grants and Locality Budgets\
-**Hertfordshire's District and Borough Councils operate a range of
+### **District and Borough Council's Community Grants and Locality Budgets **
+
+Hertfordshire's District and Borough Councils operate a range of
 community grants and locality fund programmes. Further Details of all of
 these, and area specific funds can be found in our ***Funding Matters***
 Newsletter, with updates on a monthly basis. This can be accessed via
