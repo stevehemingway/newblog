@@ -1,6 +1,6 @@
 +++
 Description = "November Newsletter 2015"
-Title = "Update November"
+title = "November"
 date = 2015-11-01T15:26:52Z
 Tags = ["Politics", "Knebworth" ]
 Categories = ["Knebworth", "NHDC"]
@@ -17,7 +17,7 @@ North Hertfordshire District Council is using new technology to help deal with n
 
 The app can be downloaded free from the NHDC website: <http://www.north-herts.gov.uk/home/environmental-health/pollution/noise-app>
 
-## **NHDC Schedule of Meetings **
+## NHDC Schedule of Meetings
 
 The schedule of meetings for North Hertfordshire District Council is available on NHDC’s website: <http://www.north-herts.gov.uk/home/council-and-democracy> Agendas are posted ahead of the meetings and while some items, such as the Budget process, follow an annual cycle, other topics are ad hoc – the Planning Control committee is a good example where individual applications that have been “called in” to the committee are discussed. The meetings are held at NHDC’s offices in Gernon Road, Letchworth, SG6 3JF and are open for members of the public to observe; this includes the meetings of the Council’s Cabinet.
 

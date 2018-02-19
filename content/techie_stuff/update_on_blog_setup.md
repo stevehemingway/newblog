@@ -2,7 +2,7 @@
 Tags = ["social_media","techie"]
 Description = "update on blog setup "
 date = "2017-02-24T15:02:38Z"
-title = "Update on Blog Setup"
+title = "on Blog Setup"
 menu = "main"
 +++
 

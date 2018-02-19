@@ -1,6 +1,6 @@
 +++
 Description = "January Newsletter 2015"
-Title = "Update January"
+title = "January"
 date = 2015-01-01T15:26:52Z
 Tags = ["Politics", "Knebworth" ]
 Categories = ["Knebworth", "NHDC"]

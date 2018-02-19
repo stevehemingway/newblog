@@ -88,7 +88,7 @@ based rule of thumb, not developer proposal) totalling 791, as follows:
 
 
 
-## **Why is this consultation different:**
+## Why is this consultation different:
 
 Some of you are probably suffering from 'consultation fatigue'. NHDC have consulted repeatedly on aspects of the local plan, which is not surprising since it was supposed to be ready by 2011. The most recent consultation, on the so-called *Preferred Options* was in December 2014 and generated about eight and a half thousand responses from around the District, including a several hundred from Knebworth.
 
@@ -104,11 +104,11 @@ fully address your concerns, you should submit your comments so that
 they will be received by the Planning
 Inspector.
 
-## **Soundness of Local Plan:**
+## Soundness of Local Plan:
 
 The Planning Inspector will examine the Draft Local Plan to determine whether it is ‘sound’. A plan is sound if it is ‘*Positively prepared*, *Justified*, *Effective* and *Consistent with national policy*.’
 
-## **Positive Preparation**
+## Positive Preparation
 
 This requires that the plan provides for enough
 houses, business premises, infrastructure and community facilities. It
@@ -151,7 +151,7 @@ consider whether or not the Plan is consistent with the whole of the
 NPPF, and not just the paragraph relating to the Green
 Belt.
 
-## **Timings:**
+## Timings:
 
 The NHDC Cabinet is scheduled to meet on 26th September to approve the current version of the plan to go forward to consultation. It will then become the 'draft submission plan'. If it is approved, the officers will prepare the material for consultation, and set up the consultation software on the NHDC website. Readers will be pleased to hear that new, improved software is being used this time, so the frustrations which the experienced trying to make representations on the Preferred Options draft *should* be a thing of the past.
 
