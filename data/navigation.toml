@@ -8,20 +8,20 @@ title = "2014 Posts"
 url = "/2014/"
 
 [[links]]
-title = "2015 posts"
+title = "2015"
 url = "/2015/"
 
 [[links]]
-title = "2016 posts"
+title = "2016"
 url = "/2016/"
 
 # create this when you've got more content in 2018
 #[[links]]
-#title = "2017 posts"
+#title = "2017"
 #url = "/2017/"
 
 [[links]]
-title = "2018 posts"
+title = "2018"
 url = "/2018/"
 
 [[links]]

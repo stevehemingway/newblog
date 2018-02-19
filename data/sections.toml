@@ -2,18 +2,19 @@
 	title = "All posts"
 
 [2014]
-		title = "All posts from 2014"
+	title = "All posts from 2014"
+
 [2015]
-title = "All posts from 2015"
+	title = "All posts from 2015"
 
 [2016]
-title = "All posts from 2016"
+	title = "All posts from 2016"
 
 [2017]
-title = "All posts from 2017"
+	title = "All posts from 2017"
 
 [2018]
-title = "All posts from 2018"
+	title = "All posts from 2018"
 
 [posts.image]
           feature = "abstract-2.jpg"

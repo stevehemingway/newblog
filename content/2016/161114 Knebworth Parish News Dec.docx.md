@@ -1,12 +1,12 @@
 +++
 date = "2016-12-01"
 title = "NORTH HERTFORDSHIRE DISTRICT COUNCIL – DECEMBER UPDATE"
-menu = "main"
+menu = "2016"
 +++
 
 **NORTH HERTFORDSHIRE DISTRICT COUNCIL – DECEMBER UPDATE**
 
-## **Rail Services from Knebworth - Timetable Consultation **
+## Rail Services from Knebworth - Timetable Consultation
 
 The consultation for the timetable for Govia Thameslink Railways is
 on-going but will close at 17:00 on 8th December. The proposals

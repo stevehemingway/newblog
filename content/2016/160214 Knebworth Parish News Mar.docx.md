@@ -1,7 +1,7 @@
 +++
 date = "2016-03-01"
 title = "NORTH HERTFORDSHIRE DISTRICT COUNCIL – March UPDATE"
-menu = "main"
+menu = "2016"
 +++
 **NORTH HERTFORDSHIRE DISTRICT COUNCIL – MARCH UPDATE**
 
@@ -52,18 +52,3 @@ As part of the District-Wide Survey new members of the Citizen’s Panel
 are selected. This is a group of residents who are regularly contacted
 about their views on Council performance, so that trends in satisfaction
 levels can be tracked on a more frequent basis than every two years.
-
-Please contact me if you would like to discuss these or any other
-matters: **Steve Hemingway, Councillor for Knebworth on NHDC:
-steve@stevehemingway.com or phone 01438 940594 (please include STD code
-when dialling).**
-
-Please contact Steve if you need his help or to share your comments, or
-be in touch directly with your County Councillor Richard Thake or your
-Member of Parliament Stephen McPartland:
-
-  - > Richard Thake, Herts County Council:
-    > richard.thake@hertfordshire.gov.uk, 07973 157 605
-
-  - > Stephen McPartland MP: stephen@stephenmcpartland.co.uk, Stephen
-    > McPartland MP, House of Commons, Westminster, London, SW1A 0AA

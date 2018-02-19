@@ -1,3 +1,12 @@
++++
+Description = "November Newsletter 2015"
+Title = "Knebworth Parish News Article November"
+date = 2015-11-01T15:26:52Z
+Tags = ["Politics", "Knebworth" ]
+Categories = ["Knebworth", "NHDC"]
+menu = "2015"
++++
+
 **NORTH HERTFORDSHIRE DISTRICT COUNCIL – NOVEMBER UPDATE**
 
 **NHDC introduces Noise App to help deal with noise nuisance **
@@ -11,13 +20,3 @@ The app can be downloaded free from the NHDC website: <http://www.north-herts.go
 The schedule of meetings for North Hertfordshire District Council is available on NHDC’s website: <http://www.north-herts.gov.uk/home/council-and-democracy> Agendas are posted ahead of the meetings and while some items, such as the Budget process, follow an annual cycle, other topics are ad hoc – the Planning Control committee is a good example where individual applications that have been “called in” to the committee are discussed. The meetings are held at NHDC’s offices in Gernon Road, Letchworth, SG6 3JF and are open for members of the public to observe; this includes the meetings of the Council’s Cabinet.
 
 Approval has been granted to purchase equipment which will allow council and committee meetings to be recorded and made available on the web as podcasts.
-
-Please contact me if you would like to discuss these or any other matters: **Steve Hemingway, Councillor for Knebworth on NHDC: steve@stevehemingway.com or phone 01438 940594 (please include STD code when dialling).**
-
-Please contact Steve if you need his help or to share your comments, or be in touch directly with your County Councillor Richard Thake or your Member of Parliament Stephen McPartland:
-
--   Richard Thake, Herts County Council: richard.thake@hertfordshire.gov.uk, 07973 157 605
-
--   Stephen McPartland MP: stephen@stephenmcpartland.co.uk, Stephen McPartland MP, House of Commons, Westminster, London, SW1A 0AA
-
-

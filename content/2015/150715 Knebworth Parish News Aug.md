@@ -1,3 +1,12 @@
++++
+Description = "August Newsletter 2015"
+Title = "Knebworth Parish News Article August"
+date = 2015-08-01T15:26:52Z
+Tags = ["Politics", "Knebworth" ]
+Categories = ["Knebworth", "NHDC"]
+menu = "2015"
++++
+
 **NORTH HERTFORDSHIRE DISTRICT COUNCIL – AUGUST UPDATE**
 
 **NHDC – Council Business Update**
@@ -24,13 +33,3 @@ Knebworth Post Office also now has a new Postmaster, with Mohammad Miah recently
 I have a small number of volunteers offering to get involved in examining the feasibility of developing a Neighbourhood Plan for all (or part of) Knebworth Parish. If you would like to get involved, especially if you have any professional expertise or involvement with Planning legislation, then please get in touch with me using the contact details below.
 
 If there is sufficient support I hope to convene an inaugural meeting in the Autumn and would expect to work extremely closely with the Parish Council on development of any Neighbourhood Plan.
-
-Please contact me if you would like to discuss these or any other matters: **Steve Hemingway, Councillor for Knebworth on NHDC: steve@stevehemingway.com or phone 01438 940594 (please include STD code when dialling).**
-
-Please contact Steve if you need his help or to share your comments, or be in touch directly with your County Councillor Richard Thake or your Member of Parliament Stephen McPartland:
-
--   Richard Thake, Herts County Council: richard.thake@hertfordshire.gov.uk, 07973 157605
-
--   Stephen McPartland MP: stephen@stephenmcpartland.co.uk, Stephen McPartland MP, House of Commons, Westminster, London, SW1A 0AA
-
-You can find contact details of your MEPs here: http://www.europarl.org.uk/en/your-meps/uk\_meps/eastern\_region.html

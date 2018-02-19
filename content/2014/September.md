@@ -1,11 +1,12 @@
 +++
 description = "Proposal to build a solar farm"
-Title = "Proposal to build a solar farm"
-date = "2018-01-29T14:46:26Z"
-Tags = ["Politics", "Knebworth", "social media"]
-Categories = ["Knebworth", "NHDC"]
+Title = "Knebworth Parish News, Sept 2014"
+date = "2014-09-01"
+Tags = ["Politics", "Knebworth"]
+Categories = ["Knebworth", "NHDC", "Planning"]
 menu = "2014"
 +++
+
 
 As you may already be aware, there is a proposal to build a 'solar farm'
 on one of the fields comprising Swangley's Farm. This will involve
