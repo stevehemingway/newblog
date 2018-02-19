@@ -18,8 +18,8 @@ copyright = "(c) Steve Hemingway 2018"
 		linkedin = "//www.linkedin.com/in/stevehemingway"
 		twitter = "//twitter.com/steveknebworth"
 	[params.image]
-	  feature = "/images/abstract-1.jpg"
-	  credit = "dargadgetz"
-	  creditlink = "http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/"
+	  feature = "/images/Kneb_field.jpg"
+	  credit = "Steve Hemingway"
+	  # creditlink = "http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/"
 
 sectionPagesMenu = "Sections_Main"
