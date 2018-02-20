@@ -9,7 +9,7 @@ Tags = ["NHDC","Knebworth"]
 +++
 
 
-**NORTH HERTFORDSHIRE DISTRICT COUNCIL – MARCH UPDATE**
+
 
 In the penultimate meeting of NHDC for the current civic year, the budget for 2017/18 was agreed.  Further savings were identified, as well as a substantial programme of capital expenditure. The council faces challenging times ahead as it has to contend with dwindling revenues from the New Homes Bonus and from Business Rates.
 

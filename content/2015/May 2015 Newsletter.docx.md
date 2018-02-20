@@ -1,13 +1,13 @@
 +++
 Description = "May Newsletter 2015"
-Title = "Knebworth Parish News Article May"
+title = "May"
 date = 2015-05-01T15:26:52Z
 Tags = ["Politics", "Knebworth" ]
 Categories = ["Knebworth", "NHDC"]
 menu = "2015"
 +++
 
-# May 2015 Newsletter
+# Review of my first year at NHDC
 
 By the time you read this column I will have served as a member of NHDC
 in the Knebworth Ward for (nearly) a whole year. It has been an eventful

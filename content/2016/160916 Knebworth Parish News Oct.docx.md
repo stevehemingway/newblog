@@ -1,12 +1,12 @@
 +++
 date = "2016-10-01"
-title = "NORTH HERTFORDSHIRE DISTRICT COUNCIL – OCTOBER UPDATE"
+title = "OCTOBER UPDATE"
 menu = "2016"
 +++
 
-**NORTH HERTFORDSHIRE DISTRICT COUNCIL – OCTOBER UPDATE**
 
-**NHDC Draft Local Plan **
+
+# NHDC Draft Local Plan 
 
 **Introduction:** Last month I wrote about the development sites
 allocated to Knebworth in the Local Plan. This month I will look at the
@@ -86,9 +86,11 @@ based rule of thumb, not developer proposal) totalling 791, as follows:
 </tbody>
 </table>
 
-##
 
-## **Why is this consultation different:** Some of you are probably suffering from 'consultation fatigue'. NHDC have consulted repeatedly on aspects of the local plan, which is not surprising since it was supposed to be ready by 2011. The most recent consultation, on the so-called *Preferred Options* was in December 2014 and generated about eight and a half thousand responses from around the District, including a several hundred from Knebworth.
+
+## Why is this consultation different:
+
+Some of you are probably suffering from 'consultation fatigue'. NHDC have consulted repeatedly on aspects of the local plan, which is not surprising since it was supposed to be ready by 2011. The most recent consultation, on the so-called *Preferred Options* was in December 2014 and generated about eight and a half thousand responses from around the District, including a several hundred from Knebworth.
 
 This consultation is different because the responses will be examined by
 the Planning Inspector and will feed into the public enquiry where the
@@ -102,9 +104,13 @@ fully address your concerns, you should submit your comments so that
 they will be received by the Planning
 Inspector.
 
-## **Soundness of Local Plan:** The Planning Inspector will examine the Draft Local Plan to determine whether it is ‘sound’. A plan is sound if it is ‘*Positively prepared*, *Justified*, *Effective* and *Consistent with national policy*.’
+## Soundness of Local Plan:
 
-**Positive Preparation** requires that the plan provides for enough
+The Planning Inspector will examine the Draft Local Plan to determine whether it is ‘sound’. A plan is sound if it is ‘*Positively prepared*, *Justified*, *Effective* and *Consistent with national policy*.’
+
+## Positive Preparation
+
+This requires that the plan provides for enough
 houses, business premises, infrastructure and community facilities. It
 also requires that the plan is *sustainable*, in the sense that it does
 not cause irreversible damage to the environment or the well-being of
@@ -114,11 +120,15 @@ what infrastructure is needed. NHDC take the view that no account may be
 taken of 'Brexit' because it is too early to estimate its effects on
 housing numbers.
 
+## Justified
+
 The plan is **justified** only if it is based on compelling evidence and
 that evidence is presented alongside the plan itself. The submitted
 draft must be the best of all possible choices. Other choices for the
 plan, such as the suggestion that has been made for a 'New Garden City',
 must be demonstrated to be inferior to the choices in the plan.
+
+## Effective
 
 The plan is **effective** if it can be implemented within the available
 timescale (before 2031). If the plan does not mesh with those of
@@ -127,6 +137,8 @@ cannot be built, the plan will fail the effectiveness test. The draft
 submission plan calls for around 1,100 house completions a year to be
 delivered for the latter of the plan period. This is considerably more
 than North Herts has previously achieved.
+
+## Consistent with national policy
 
 The plan must be **consistent with national policy**. A policy that many
 local residents have commented on is the need to avoid changing Green
@@ -139,8 +151,10 @@ consider whether or not the Plan is consistent with the whole of the
 NPPF, and not just the paragraph relating to the Green
 Belt.
 
-## **Timings:** The NHDC Cabinet is scheduled to meet on 26th September to approve the current version of the plan to go forward to consultation. It will then become the 'draft submission plan'. If it is approved, the officers will prepare the material for consultation, and set up the consultation software on the NHDC website. Readers will be pleased to hear that new, improved software is being used this time, so the frustrations which the experienced trying to make representations on the Preferred Options draft *should* be a thing of the past.
+## Timings:
 
-## If all goes according to plan the **consultation period will run from the 19th October to the 30th November**. Again, this period will run over the Christmas holidays, and potentially means that some residents will have a very short window in which to read the documents and make their submissions.
+The NHDC Cabinet is scheduled to meet on 26th September to approve the current version of the plan to go forward to consultation. It will then become the 'draft submission plan'. If it is approved, the officers will prepare the material for consultation, and set up the consultation software on the NHDC website. Readers will be pleased to hear that new, improved software is being used this time, so the frustrations which the experienced trying to make representations on the Preferred Options draft *should* be a thing of the past.
 
-## Following the end of the consultation period, the submissions will be categorised by NHDC and submitted together with the Draft Plan and all other supporting material to the Planning Inspector in the first part of 2017.
+If all goes according to plan the **consultation period will run from the 19th October to the 30th November**. Again, this period will run over the Christmas holidays, and potentially means that some residents will have a very short window in which to read the documents and make their submissions.
+
+Following the end of the consultation period, the submissions will be categorised by NHDC and submitted together with the Draft Plan and all other supporting material to the Planning Inspector in the first part of 2017.

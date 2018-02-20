@@ -7,9 +7,9 @@ Categories = ["Knebworth", "NHDC"]
 menu = "main"
 +++
 
-**NORTH HERTFORDSHIRE DISTRICT COUNCIL  NOVEMBER UPDATE**
 
-**Complexities of the Planning Process  An On-Going Case**
+
+# Complexities of the Planning Process  An On-Going Case
 
 An undecided planning application for a Gypsy and Traveller site at
 Pottersheath illustrates some of the complexity around the

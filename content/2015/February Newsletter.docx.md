@@ -1,13 +1,15 @@
 +++
 Description = "February Newsletter 2015"
-Title = "Knebworth Parish News Article Feb"
+title = " Feb"
 date = 2015-02-01T15:26:52Z
 Tags = ["Politics", "Knebworth" ]
 Categories = ["Knebworth", "NHDC"]
 menu = "2015"
 +++
 
-# Future of the Knebworth GP Surgery
+
+
+## Future of the Knebworth GP Surgery
 
 Herts County Council have now confirmed their intention of Herts County
 Council that its intention is to enter into an agreement with General
@@ -28,7 +30,7 @@ Knebworth and Marymead General Practice for some years. I am very glad
 that the process has moved on a stage so that we can look forward to a
 new surgery opening, if everything goes well, in the next few years.
 
-# Norton Green Common
+## Norton Green Common
 
 I am pleased to report that Knebworth Parish Council has entered into a
 Stewardship Agreement with Natural England for the management of Norton
@@ -46,7 +48,7 @@ progress in the log hard slog that is the restoration of Norton Green
 Common. It would not have been possible without tireless effort on the
 part of Rosemary Pateman, Karen Robinson and the Parish Clerk.
 
-# Local Plan
+## Local Plan
 
 By the time you read this the Extraordinary Parish Meeting scheduled for
 the 20th January will have been held. There is time to send your

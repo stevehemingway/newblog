@@ -1,12 +1,14 @@
 +++
 date = "2016-12-01"
-title = "NORTH HERTFORDSHIRE DISTRICT COUNCIL – DECEMBER UPDATE"
+title = "DECEMBER UPDATE"
 menu = "2016"
 +++
 
-**NORTH HERTFORDSHIRE DISTRICT COUNCIL – DECEMBER UPDATE**
+
 
 ## Rail Services from Knebworth - Timetable Consultation
+
+Consultation has finished.
 
 The consultation for the timetable for Govia Thameslink Railways is
 on-going but will close at 17:00 on 8th December. The proposals
@@ -26,7 +28,7 @@ be available on their website also. Full details on the proposals and
 how to respond are on the Great Northern Thameslink website:
 <http://www.thameslinkrailway.com/your-journey/timetable-consultation>
 
-**North Herts Leisure Centre and Council Offices Refurbishment**
+# North Herts Leisure Centre and Council Offices Refurbishment
 
 Work is progressing on refurbishing the North Herts Leisure Centre in
 Letchworth. Much of this work was essential to keep the facility
@@ -43,7 +45,7 @@ being project managed by local firm, Wilmott Dixon. All staff will be
 the course of this month. Town Lodge is also in Gernon Road, but
 opposite the Broadway Cinema.
 
-**NHDC Planning Portal**
+# NHDC Planning Portal
 
 The council's planning portal is being upgraded, to a more functional
 system. This will continue to be supplied by Idox PLC., the current
@@ -51,10 +53,5 @@ operator. A number of you have noticed how unsatisfactory the current
 system is. I encourage you to try the new one and send your feed back to
 me or to NHDC at service@north-herts.gov.uk.
 
-**NHDC Parking Strategy Consultation**
-
-The District parking strategy consultation is getting started. Town
-centre managers have been invited to give their views to the executive
-member for Policy, Transport and Green Issues. The consultation is
-expected to go on for several months and I will update you when I have
+ you when I have
 more details.

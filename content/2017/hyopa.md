@@ -7,11 +7,10 @@ Categories = ["Knebworth", "NHDC", "HCC"]
 menu = "main"
 +++
 
-# Hertfordshire Year of Physical Activity 2018
 
-## Funding Fact Sheet
+# Funding Fact Sheet
 
-**2018 will be the Year of Physical Activity in Hertfordshire -- an
+2018 will be the Year of Physical Activity in Hertfordshire -- an
 initiative being led by Hertfordshire's 10 District and Borough
 Councils, Public Health Hertfordshire and the Herts Sports and Physical
 Activity Partnership. The year will be kicking off on January 1st.**
@@ -59,7 +58,7 @@ pleased to offer advice and point you in the right direction.
 
 ## Some useful funding streams...
 
-### **Herts County Council Locality Budgets**
+### Herts County Council Locality Budgets
 
 The County Council through its commitment to localism is seeking to
 increase the opportunities for local councillors and communities to
@@ -72,15 +71,15 @@ that can achieve local benefits may be well received.
 Further details
 <http://www.hertsdirect.org/your-council/localitybudgetscheme/membrlocalbdgt/>
 
-### **Sport England Small Grants - £300 - £10,000**
+### Sport England Small Grants - £300 - £10,000
 
 Small Grants uses Lottery funding to make awards of between £300 and
 £10,000 to not-for-profit organisations to help more people play sport
 and become active
 
-Further details <https://www.sportengland.org/funding/small-grants/>
+Further details: <https://www.sportengland.org/funding/small-grants/>.
 
-### **Big Lottery Awards for All Small Grants programme £300 - £10,000 **
+### Big Lottery Awards for All Small Grants programme £300 - £10,000
 
 Awards for All is a small grants programme provided by the Big Lottery
 Fund with the aim of funding projects that will improve the quality of
@@ -95,7 +94,7 @@ Applications may be submitted at any time
 Further details
 <https://www.biglotteryfund.org.uk/global-content/programmes/england/awards-for-all-england>
 
-### **Podium Partners -- Crowdfunding**
+### Podium Partners -- Crowdfunding
 
 The Herts Sports Partnership (HSP) and the Hertfordshire Sports
 Village have linked with Podium Partners to launch this new and
@@ -104,7 +103,7 @@ involved in sport and physical activity in Hertfordshire.
 
 Further details <https://www.podiumpartners.org/>
 
-### **District and Borough Council's Community Grants and Locality Budgets **
+### District and Borough Council's Community Grants and Locality Budgets
 
 Hertfordshire's District and Borough Councils operate a range of
 community grants and locality fund programmes. Further Details of all of

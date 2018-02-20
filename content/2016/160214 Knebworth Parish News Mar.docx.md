@@ -1,11 +1,10 @@
 +++
 date = "2016-03-01"
-title = "NORTH HERTFORDSHIRE DISTRICT COUNCIL – March UPDATE"
+title = "March UPDATE"
 menu = "2016"
 +++
-**NORTH HERTFORDSHIRE DISTRICT COUNCIL – MARCH UPDATE**
 
-**Council Tax for 2016/17** **– NHDC Budget**
+# **Council Tax for 2016-17** **– NHDC Budget**
 
 At the full North Herts District Council meeting on 11 Feb the Executive
 Member for Finance, Terry Hone, presented his budget for next year (Apr
@@ -35,7 +34,7 @@ Of course, your Council Tax bill includes elements to fund services
 provided by the County Council, the Police and the Parish Council, so
 your total Council Tax bill will be considerably greater.
 
-## **District-Wide Survey**
+# **District-Wide Survey**
 
 NHDC seeks to understand people’s satisfaction with the Council and its
 services. A North Herts District Wide Survey is a consultation exercise

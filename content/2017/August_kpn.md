@@ -7,13 +7,13 @@ Tags = ["Politics", "Knebworth", "social media"]
 Categories = ["Knebworth", "NHDC"]
 menu = "main"
 +++
-**NORTH HERTFORDSHIRE DISTRICT COUNCIL – AUGUST UPDATE**
 
-**Station Pub Planning Application**
+
+# Station Pub Planning Application
 
 A planning application, Ref. 17/01622/1, which has been submitted to NHDC to re-develop the site of the Station Hotel (aka the Station Pub) to provide nine two bed and five one bed dwellings, in addition to the existing bar area. The 'Save Our Station Pub' campaign team is looking at valid planning grounds on which this application might be challenged. Please see the article elsewhere in this edition for more information.
 
-**Waste Collection and Street Cleansing Contract**
+# Waste Collection and Street Cleansing Contract
 
 Waste collection and street cleansing are a big part of what NHDC does. More than a third of its overall expenditure goes on this one item. The work is contracted out to Veolia currently, but under current procurement rules the Council must undertake market testing and cannot simply renew the existing contract.
 

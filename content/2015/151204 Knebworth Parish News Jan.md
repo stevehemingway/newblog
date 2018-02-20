@@ -1,19 +1,19 @@
 +++
 Description = "January Newsletter 2015"
-Title = "Knebworth Parish News Article January"
+title = "January"
 date = 2015-01-01T15:26:52Z
 Tags = ["Politics", "Knebworth" ]
 Categories = ["Knebworth", "NHDC"]
 menu = "2015"
 +++
 
-**NORTH HERTFORDSHIRE DISTRICT COUNCIL – JANUARY UPDATE**
+# **JANUARY UPDATE**
 
-# NHDC Local Plan - Preferred Options Consultation
+## NHDC Local Plan - Preferred Options Consultation
 
 The submissions made by members of the public to the Preferred Options Consultation, undertaken as part of the development of a new Local Plan, are now available on NHDC’s website. Every written response is available to read online - go to the page you get to by searching for '"Planning Policy Online Consultations" north-herts'.
 
-# NHDC’s Grants Policy
+## NHDC’s Grants Policy
 
 A report on Grants Policy is due to be discussed at the meeting of Cabinet on the 15th December. This will be reviewed by the Overview and Scrutiny Committee by the end of February 2016.
 

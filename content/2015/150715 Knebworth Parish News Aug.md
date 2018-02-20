@@ -1,15 +1,15 @@
 +++
 Description = "August Newsletter 2015"
-Title = "Knebworth Parish News Article August"
+title = "August"
 date = 2015-08-01T15:26:52Z
 Tags = ["Politics", "Knebworth" ]
 Categories = ["Knebworth", "NHDC"]
 menu = "2015"
 +++
 
-**NORTH HERTFORDSHIRE DISTRICT COUNCIL – AUGUST UPDATE**
+# **AUGUST UPDATE**
 
-**NHDC – Council Business Update**
+## NHDC – Council Business Update
 
 The Council Meeting on 21 July covered a range of important issues, many of which will have an effect on North Hertfordshire residents long after the current Civic Year:
 
@@ -28,7 +28,7 @@ I was honoured to open officially the new-look Post Office in St Martin's Road, 
 
 Knebworth Post Office also now has a new Postmaster, with Mohammad Miah recently taking over from Nicola Low, who had held the position for the last thirty years.
 
-**Neighbourhood Plan Working Party – Interested in being Involved?**
+## Neighbourhood Plan Working Party – Interested in being Involved?
 
 I have a small number of volunteers offering to get involved in examining the feasibility of developing a Neighbourhood Plan for all (or part of) Knebworth Parish. If you would like to get involved, especially if you have any professional expertise or involvement with Planning legislation, then please get in touch with me using the contact details below.
 

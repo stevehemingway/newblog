@@ -1,13 +1,13 @@
 +++
 date = "2016-11-01"
-title = "NORTH HERTFORDSHIRE DISTRICT COUNCIL – NOVEMBER UPDATE"
+title = "NOVEMBER UPDATE"
 menu = "2016"
 +++
 
-**NORTH HERTFORDSHIRE DISTRICT COUNCIL – NOVEMBER UPDATE**
 
-**NHDC Local Plan – Public Consultation Period 19th October
-to end November **
+
+# NHDC Local Plan – Public Consultation Period 19th October
+to end November 
 
 The local public meeting ahead of the Parish Council meeting went ahead
 as planned on Wednesday 12th October. The hall was full, with many of
@@ -37,7 +37,7 @@ representations will be collated by NHDC and submitted to the Planning
 Inspector ahead of the Public Enquiry, which is currently expected to
 take place in the second quarter of 2017.
 
-**NHDC Revised Grants Policy **
+# NHDC Revised Grants Policy 
 
 The revised Grants Policy, now adopted, has reduced the total amount of
 money available for grants from the Council, and restricted the groups
