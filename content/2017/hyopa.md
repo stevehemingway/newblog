@@ -7,7 +7,6 @@ Categories = ["Knebworth", "NHDC", "HCC"]
 menu = "main"
 +++
 
-
 # Funding Fact Sheet
 
 2018 will be the Year of Physical Activity in Hertfordshire -- an
