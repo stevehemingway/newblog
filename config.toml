@@ -18,9 +18,9 @@ copyright = "(c) Steve Hemingway 2018"
 		linkedin = "stevehemingway"
 		twitter = "steveknebworth"
 		NHDC = "//web.north-herts.gov.uk/aksnherts/users/public/admin/main.pl?op=MemberDetails&keyid=102"
-	[params.image]
-	  feature = "/images/Kneb_field.jpg"
-	  credit = "Steve Hemingway"
+	#[params.image]
+	#  feature = "/images/Kneb_field.jpg"
+	#  credit = "Steve Hemingway"
 	  # creditlink = "http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/"
 
 sectionPagesMenu = "Sections_Main"
