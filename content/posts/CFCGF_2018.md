@@ -1,7 +1,7 @@
 ---
 Description : "North Hertfordshire District Council (NHDC) has awarded grant funding of over &pound;240,000  including &pound;32,000 towards Knebworth Scouts and guides"
 title : "Community Facilities Capital Grant Fund"
-date : 2018-03-01
+date : "2018-04-15"
 Tags : ["Grants"]
 Categories : [ "NHDC"]
 menu : "main"

@@ -1,11 +1,13 @@
-+++ 
-Description = "Press Release from NHDC re Churchgate" 
-title = "Churchgate" date = 2018-01-31T17:42:37Z 
-Tags = ["Politics", "North Herts"] Categories = [ "NHDC"] menu = "main"
+---
+Description : "Knebworth JMI Environmental Area"
+title : "Knebworth JMI Environmental Area"
+date : "2018-03-31T17:42:37Z"
+Tags : ["Politics", "North Herts"]
+Categories : [ "NHDC"]
+menu : "main"
+---
 
-+++
-
-It was fascinating to see the Knebworth Primary School Environmental Area when I visited the school on Friday. I have never really penetrated very far beyond the dining room (where Knebworth Village Trust meetings are held). 
+It was fascinating to see the Knebworth Primary School Environmental Area when I visited the school on Friday. I have never really penetrated very far beyond the dining room (where Knebworth Village Trust meetings are held).
 
 It seems that the Environmental Area (or EA as I'l call it from now on) had been neglected for a long time. It had become overgrown with weeds and neglected, so that the odd lesson which was held in it was reduced to an unequal struggle against the growth of weeds.
 
