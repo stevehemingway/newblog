@@ -15,7 +15,7 @@ The Council Meeting on 21 July covered a range of important issues, many of whic
 
 -   The Council is preparing to respond to recent legislation to take into account Social Value in its tendering processes. This should make it easier for local businesses to sell goods and services to the Council
 
--   A report was accepted on the refurbishment of the North Herts Leisure Centre at Letchworth, costing in excess of £3 million, which should result in significantly improved facilities there
+-   A report was accepted on the refurbishment of the North Herts Leisure Centre at Letchworth, costing in excess of &pound;3 million, which should result in significantly improved facilities there
 
 -   The 'Corporate Objectives' which sets goals and priorities for the district until 2021, centred around *Promoting Sustainable Growth*, *Working with Communities* and *Living Within Our Means*
 

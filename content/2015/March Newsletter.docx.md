@@ -22,9 +22,9 @@ not clear how long this process will take.
 ## NHDC Council Tax
 
 At the District Council of the 12th February it was decided to increase
-its proportion of Council tax by 1.9%, or £3.88 for a Band D property in
+its proportion of Council tax by 1.9%, or &pound;3.88 for a Band D property in
 Knebworth. For such a property the contribution to the District Council
-becomes £208.01. The balance of what you pay on your Council Tax is made
+becomes &pound;208.01. The balance of what you pay on your Council Tax is made
 up of contributions to the Parish, the Police and the County, in order
 of increasing cost, for the important services they provide to us all.
 

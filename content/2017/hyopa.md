@@ -62,7 +62,7 @@ pleased to offer advice and point you in the right direction.
 The County Council through its commitment to localism is seeking to
 increase the opportunities for local councillors and communities to
 decide how money is spent in their community. Each elected member of the
-County Council has £10,000 to spend on worthwhile projects in their
+County Council has &pound;10,000 to spend on worthwhile projects in their
 community that promote social, economic or environmental wellbeing.
 Physical activity projects have been supported in the past and proposals
 that can achieve local benefits may be well received.
@@ -70,15 +70,15 @@ that can achieve local benefits may be well received.
 Further details
 <http://www.hertsdirect.org/your-council/localitybudgetscheme/membrlocalbdgt/>
 
-### Sport England Small Grants - £300 - £10,000
+### Sport England Small Grants - &pound;300 - &pound;10,000
 
-Small Grants uses Lottery funding to make awards of between £300 and
-£10,000 to not-for-profit organisations to help more people play sport
+Small Grants uses Lottery funding to make awards of between &pound;300 and
+&pound;10,000 to not-for-profit organisations to help more people play sport
 and become active
 
 Further details: <https://www.sportengland.org/funding/small-grants/>.
 
-### Big Lottery Awards for All Small Grants programme £300 - £10,000
+### Big Lottery Awards for All Small Grants programme &pound;300 - &pound;10,000
 
 Awards for All is a small grants programme provided by the Big Lottery
 Fund with the aim of funding projects that will improve the quality of
