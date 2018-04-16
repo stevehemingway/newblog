@@ -2,8 +2,8 @@
 Description : "Member Advocate at Planning Control Committee"
 title : "Aggregates Yard Planning Application"
 date : 2018-03-16
-Tags : ["Politics", "North Herts", "Tech"]
-Categories : [ "Tech"]
+Tags : ["Politics", "North Herts", "Planning"]
+Categories : [ "Planning"]
 menu : "2018"
 ---
 

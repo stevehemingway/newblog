@@ -40,13 +40,13 @@ considered.
 
 Two awards of additional funding have been made by NHDC committees:
 
-  - A grant of £7,000 has been awarded to Knebworth Parish Council by
+  - A grant of &pound;7,000 has been awarded to Knebworth Parish Council by
     the NHDC Rural Community Halls Capital Fund. This will allow a major
     upgrade to the heating system in the Village Hall, just in time for
     the cold winter months.
 
   - The Knebworth Day Centre for the vulnerable and elderly received a
-    boost when it received a grant of £1,000 from NHDC’s Southern Rural
+    boost when it received a grant of &pound;1,000 from NHDC’s Southern Rural
     Area Committee to help with operational costs. Knebworth Day Centre,
     a not-for-profit organisation staffed by ten volunteers, has
     provided social activities for elderly and frail people for 25

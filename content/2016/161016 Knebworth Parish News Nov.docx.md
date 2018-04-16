@@ -49,7 +49,7 @@ a big recipient of NHDC Grants, so even with a reduced budget there is
 an opportunity for local community groups to obtain funding. The
 grant-awarding committee which covers Knebworth, Codicote and other
 southern parishes is Southern Rural. It still has a budget of around
-£18,000 to spend by the end of the Civic Year, so now is the time to
+&pound;18,000 to spend by the end of the Civic Year, so now is the time to
 write your applications ready for the next committee meeting, which is
 on 1st December.
 

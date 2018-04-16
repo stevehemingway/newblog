@@ -12,7 +12,7 @@ menu = "main"
 
 Most of you will be aware of the new charging regime for garden waste bins being introduced this year. Removal of household waste remains a statutory obligation for the Council, and not one that it may charge for. This includes food waste which will be collected weekly from food caddies to be provided. While this will mean an additional container, the alternative would be to allow food waste to be put in the ‘residual waste’ (i.e. purple) bins. Although this would have saved money, it was considered a worse option from an environmental point of view and was rejected. The new caddies will be 23l in capacity, enough for a week, so considerably bigger than the old ones, which are at most 4l.
 
-Householders who pay for garden waste bins will be able to continue to use them for food waste, but with a fortnightly collection, and leave their new caddy unused. Bonfires are allowed, provided they do not create a nuisance, which can reduce garden waste; householders may have more than one brown bin (at £40 pa each) or can share.
+Householders who pay for garden waste bins will be able to continue to use them for food waste, but with a fortnightly collection, and leave their new caddy unused. Bonfires are allowed, provided they do not create a nuisance, which can reduce garden waste; householders may have more than one brown bin (at &pound;40 pa each) or can share.
 
 # Forthcoming NHDC meetings
 -----------------------------
