@@ -13,7 +13,7 @@ copyright = "(c) Steve Hemingway 2018"
 	[params.author]
 		name = "Steve"
 		avatar = "/images/steve.jpg"
-		bio = "family man, programmer, councillor, geek"
+		bio = "family man, former programmer, parish councillor"
 		github = "stevehemingway/myblog-hugo"
 		linkedin = "stevehemingway"
 		twitter = "steveknebworth"
