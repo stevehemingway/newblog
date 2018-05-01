@@ -7,6 +7,12 @@ Categories : [ "Planning", "NHDC"]
 menu : "main"
 ---
 
+# TL;DR:
+
+In the NHDC Council Meeting of 11th April 2017 I voted to save  public consultation responses from the shredder. My political opponents are painting this as if I voted to build on fields all around Knebworth. As I have repeatedly said in the past, I am opposed to all Green Belt development around the village.
+
+# The actual resolutions I voted for:
+
 I have had a number of local residents contacting me stating that I voted for development to take place on sites around Knebworth. This is simply untrue.  In the meeting of the full Council on 11th April 2017, I voted for the following motion:
 
 >
