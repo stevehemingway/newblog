@@ -3,7 +3,7 @@ Description : "Knebworth JMI Environmental Area"
 title : "Knebworth JMI Environmental Area"
 date : "2018-03-31T17:42:37Z"
 Tags : ["Knebworth", "Community"]
-Categories : ["community" "Knebworth" ]
+Categories : ["community", "Knebworth" ]
 menu : "main"
 ---
 
