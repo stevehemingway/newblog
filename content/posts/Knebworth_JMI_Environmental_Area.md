@@ -79,6 +79,6 @@ We have already had the bench. It has plaque with signatures of people who were 
 
 We have installed the picket fence  for couple of reasons.  It is the only area we don't mind nettles, brambles to grow. Nettles are a feeding plant for butterfly caterpillars. We will have some foxgloves growing there as well. And it's an area we don't want children to pick plants from. Everywhere else they are ok to cut and chop. As long as they follow the simple rule of foraging.  
 
-*One for the bees, one for birds, one for bugs, one for butterflies and one for me*   
+*One for the bees, one for birds, one for bugs, one for butterflies and one for me.*   
 
 It has been decided that the  Environment Area should be given a new name: **The Wildlife haven**. This is so recent a decision that the sign has not yet been made.
