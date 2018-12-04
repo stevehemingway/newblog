@@ -9,8 +9,9 @@ share : true
 
 # About Steve
 
-I am the Conservative candidate for Knebworth Ward of North Herts District Council.
 
 You can read some of the material I've contributed to the Knebworth Parish News over the last four years [here](/posts). The menu on the left organises them by date.
 
-You can access this site at [stevehemingway.com](https://www.stevehemingway.com).
+I don't keep any data about you, so I don't have a need to have a privacy policy.
+
+I don't personally do anything with cookies, but Google Analytics and Disqus probably do. If you are worried about them you can easily configure your browser to block them.

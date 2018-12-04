@@ -9,15 +9,15 @@ disqusShortname = "stevehem"
 copyright = "(c) Steve Hemingway 2018"
 
 [params]
-	subtitle = "Thoughts about Knebworth, NHDC and other stuff"
+	subtitle = "Thoughts about Knebworth and other stuff"
 	[params.author]
 		name = "Steve"
 		avatar = "/images/steve.jpg"
-		bio = "family man, former programmer, parish councillor"
-		github = "stevehemingway/myblog-hugo"
-		linkedin = "stevehemingway"
+		bio = "Local Resident"
+		# github = "stevehemingway/myblog-hugo"
+		# linkedin = "stevehemingway"
 		twitter = "steveknebworth"
-		NHDC = "//web.north-herts.gov.uk/aksnherts/users/public/admin/main.pl?op=MemberDetails&keyid=102"
+		# NHDC = "//web.north-herts.gov.uk/aksnherts/users/public/admin/main.pl?op=MemberDetails&keyid=102"
 	#[params.image]
 	#  feature = "/images/Kneb_field.jpg"
 	#  credit = "Steve Hemingway"
