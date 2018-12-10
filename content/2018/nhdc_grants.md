@@ -1,6 +1,6 @@
 ---
 Description : "NHDC awards grants to Royston Bowls Club"
-title : "Nhdc_grants"
+title : "More NHDC grants awarded"
 date : 2018-12-09T13:08:14Z
 Tags : ["Politics", "NHDC"]
 Categories : ["Royston", "NHDC"]
