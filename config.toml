@@ -1,7 +1,8 @@
 baseurl = "https://stevehemingway.com"
 languageCode = "en-gb"
 title = "Steve Hemingway's website"
-theme = "hpstr"
+# theme = "hugo-coder"
+theme = "ace-documentation"
 pluralizelisttitles = false
 PygmentsCodeFences = true
 Paginate = 5
