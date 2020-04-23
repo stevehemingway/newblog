@@ -3,11 +3,12 @@ languageCode = "en-gb"
 title = "Steve Hemingway's website"
 # theme = "hugo-coder"
 theme = "ace-documentation"
+publishDir = "docs"
 pluralizelisttitles = false
 PygmentsCodeFences = true
 Paginate = 5
 disqusShortname = "stevehem"
-copyright = "(c) Steve Hemingway 2018"
+copyright = "(c) Steve Hemingway 2020"
 
 [params]
 	subtitle = "Thoughts about Knebworth and other stuff"
