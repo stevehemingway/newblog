@@ -1,28 +1,28 @@
-baseurl = "https://stevehemingway.com"
-languageCode = "en-gb"
-title = "Steve Hemingway's website"
-# theme = "hugo-coder"
-theme = "ace-documentation"
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "Some Title"
+theme = "bare"
+enableGitInfo = false
+disableAttribution=true 
+
 publishDir = "docs"
-pluralizelisttitles = false
-PygmentsCodeFences = true
-Paginate = 5
-disqusShortname = "stevehem"
-copyright = "(c) Steve Hemingway 2020"
+
+[taxonomies]
+  tag = "tags"
+  series = "series"
 
 [params]
-	subtitle = "Thoughts about Knebworth and other stuff"
-	[params.author]
-		name = "Steve"
-		avatar = "/images/steve.jpg"
-		bio = "Local Resident"
-		# github = "stevehemingway/myblog-hugo"
-		# linkedin = "stevehemingway"
-		twitter = "steveknebworth"
-		# NHDC = "//web.north-herts.gov.uk/aksnherts/users/public/admin/main.pl?op=MemberDetails&keyid=102"
-	#[params.image]
-	#  feature = "/images/Kneb_field.jpg"
-	#  credit = "Steve Hemingway"
-	  # creditlink = "http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/"
+mainSections = ["post"]
+author = "Steve Hemingway"
+email = "hello@hello-world.com"
+repoLink = "https://github.com/orf/bare-hugo-theme"
+description = 'Community Blogger from Knebworth'
+# PostCSS is harder than it should be to get working on a theme
+# example site. It's easy on _your_ site.
+postcss = false
+# Include the author name in the <title> of articles
+includeAuthorInTitle = false
 
-sectionPagesMenu = "Sections_Main"
+[[params.social]]
+icon = "github"
+url = "https://github.com/orf/"
