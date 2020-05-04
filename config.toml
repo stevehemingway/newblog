@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
-languageCode = "en-us"
-title = "Some Title"
+baseURL = ""
+languageCode = "en-gb"
+title = "Steve's Blog"
 theme = "bare"
 enableGitInfo = false
 disableAttribution=true 
@@ -9,20 +9,21 @@ publishDir = "docs"
 
 [taxonomies]
   tag = "tags"
-  series = "series"
+#  series = "series"
 
 [params]
 mainSections = ["post"]
 author = "Steve Hemingway"
-email = "hello@hello-world.com"
-repoLink = "https://github.com/orf/bare-hugo-theme"
+email = "steve@stevehemingway.com"
+# repoLink = "https://github.com/orf/bare-hugo-theme"
 description = 'Community Blogger from Knebworth'
 # PostCSS is harder than it should be to get working on a theme
 # example site. It's easy on _your_ site.
 postcss = false
 # Include the author name in the <title> of articles
 includeAuthorInTitle = false
+disableAttribution = true
 
 [[params.social]]
 icon = "github"
-url = "https://github.com/orf/"
+# url = "https://github.com/orf/"
