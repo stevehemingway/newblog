@@ -12,7 +12,7 @@ publishDir = "docs"
 #  series = "series"
 
 [params]
-mainSections = ["post"]
+mainSections = ["posts", "posts/2014", "posts/2015", "posts/2016", "posts/2017", "posts/2018",  "posts/2019"]
 author = "Steve Hemingway"
 email = "steve@stevehemingway.com"
 # repoLink = "https://github.com/orf/bare-hugo-theme"
