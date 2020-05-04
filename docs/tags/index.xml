@@ -2,228 +2,228 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Steve&#39;s Blog</title>
-    <link>/tags/</link>
+    <link>https://stevehemingway.github.io/newblog/tags/</link>
     <description>Recent content in Tags on Steve&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 09 Dec 2018 15:33:55 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stevehemingway.github.io/newblog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Knebworth</title>
-      <link>/tags/knebworth/</link>
+      <link>https://stevehemingway.github.io/newblog/tags/knebworth/</link>
       <pubDate>Sun, 09 Dec 2018 15:33:55 +0000</pubDate>
       
-      <guid>/tags/knebworth/</guid>
+      <guid>https://stevehemingway.github.io/newblog/tags/knebworth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Politics</title>
-      <link>/tags/politics/</link>
+      <link>https://stevehemingway.github.io/newblog/tags/politics/</link>
       <pubDate>Sun, 09 Dec 2018 15:33:55 +0000</pubDate>
       
-      <guid>/tags/politics/</guid>
+      <guid>https://stevehemingway.github.io/newblog/tags/politics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>social media</title>
-      <link>/tags/social-media/</link>
+      <link>https://stevehemingway.github.io/newblog/tags/social-media/</link>
       <pubDate>Sun, 09 Dec 2018 15:33:55 +0000</pubDate>
       
-      <guid>/tags/social-media/</guid>
+      <guid>https://stevehemingway.github.io/newblog/tags/social-media/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NHDC</title>
-      <link>/tags/nhdc/</link>
+      <link>https://stevehemingway.github.io/newblog/tags/nhdc/</link>
       <pubDate>Sun, 09 Dec 2018 13:08:14 +0000</pubDate>
       
-      <guid>/tags/nhdc/</guid>
+      <guid>https://stevehemingway.github.io/newblog/tags/nhdc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>freedom</title>
-      <link>/tags/freedom/</link>
+      <link>https://stevehemingway.github.io/newblog/tags/freedom/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/freedom/</guid>
+      <guid>https://stevehemingway.github.io/newblog/tags/freedom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internet</title>
-      <link>/tags/internet/</link>
+      <link>https://stevehemingway.github.io/newblog/tags/internet/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/internet/</guid>
+      <guid>https://stevehemingway.github.io/newblog/tags/internet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Community</title>
-      <link>/tags/community/</link>
+      <link>https://stevehemingway.github.io/newblog/tags/community/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/community/</guid>
+      <guid>https://stevehemingway.github.io/newblog/tags/community/</guid>
       <description></description>
     </item>
     
     <item>
       <title>North Herts</title>
-      <link>/tags/north-herts/</link>
+      <link>https://stevehemingway.github.io/newblog/tags/north-herts/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/north-herts/</guid>
+      <guid>https://stevehemingway.github.io/newblog/tags/north-herts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pub</title>
-      <link>/tags/pub/</link>
+      <link>https://stevehemingway.github.io/newblog/tags/pub/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/pub/</guid>
+      <guid>https://stevehemingway.github.io/newblog/tags/pub/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pubs</title>
-      <link>/tags/pubs/</link>
+      <link>https://stevehemingway.github.io/newblog/tags/pubs/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/pubs/</guid>
+      <guid>https://stevehemingway.github.io/newblog/tags/pubs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Planning</title>
-      <link>/tags/planning/</link>
+      <link>https://stevehemingway.github.io/newblog/tags/planning/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/planning/</guid>
+      <guid>https://stevehemingway.github.io/newblog/tags/planning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Voting</title>
-      <link>/tags/voting/</link>
+      <link>https://stevehemingway.github.io/newblog/tags/voting/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/voting/</guid>
+      <guid>https://stevehemingway.github.io/newblog/tags/voting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HCC</title>
-      <link>/tags/hcc/</link>
+      <link>https://stevehemingway.github.io/newblog/tags/hcc/</link>
       <pubDate>Tue, 17 Apr 2018 17:42:37 +0000</pubDate>
       
-      <guid>/tags/hcc/</guid>
+      <guid>https://stevehemingway.github.io/newblog/tags/hcc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grants</title>
-      <link>/tags/grants/</link>
+      <link>https://stevehemingway.github.io/newblog/tags/grants/</link>
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/grants/</guid>
+      <guid>https://stevehemingway.github.io/newblog/tags/grants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Consultations</title>
-      <link>/tags/consultations/</link>
+      <link>https://stevehemingway.github.io/newblog/tags/consultations/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/consultations/</guid>
+      <guid>https://stevehemingway.github.io/newblog/tags/consultations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tech</title>
-      <link>/tags/tech/</link>
+      <link>https://stevehemingway.github.io/newblog/tags/tech/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/tech/</guid>
+      <guid>https://stevehemingway.github.io/newblog/tags/tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/tags/about/</link>
+      <link>https://stevehemingway.github.io/newblog/tags/about/</link>
       <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/about/</guid>
+      <guid>https://stevehemingway.github.io/newblog/tags/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>philosophy</title>
-      <link>/tags/philosophy/</link>
+      <link>https://stevehemingway.github.io/newblog/tags/philosophy/</link>
       <pubDate>Wed, 01 Mar 2017 17:43:52 +0000</pubDate>
       
-      <guid>/tags/philosophy/</guid>
+      <guid>https://stevehemingway.github.io/newblog/tags/philosophy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>local</title>
-      <link>/tags/local/</link>
+      <link>https://stevehemingway.github.io/newblog/tags/local/</link>
       <pubDate>Mon, 13 Feb 2017 14:12:17 +0000</pubDate>
       
-      <guid>/tags/local/</guid>
+      <guid>https://stevehemingway.github.io/newblog/tags/local/</guid>
       <description></description>
     </item>
     
     <item>
       <title>twitter</title>
-      <link>/tags/twitter/</link>
+      <link>https://stevehemingway.github.io/newblog/tags/twitter/</link>
       <pubDate>Mon, 13 Feb 2017 14:12:17 +0000</pubDate>
       
-      <guid>/tags/twitter/</guid>
+      <guid>https://stevehemingway.github.io/newblog/tags/twitter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Activism</title>
-      <link>/tags/activism/</link>
+      <link>https://stevehemingway.github.io/newblog/tags/activism/</link>
       <pubDate>Fri, 10 Feb 2017 15:28:49 +0000</pubDate>
       
-      <guid>/tags/activism/</guid>
+      <guid>https://stevehemingway.github.io/newblog/tags/activism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social_Media</title>
-      <link>/tags/social_media/</link>
+      <link>https://stevehemingway.github.io/newblog/tags/social_media/</link>
       <pubDate>Fri, 10 Feb 2017 15:28:49 +0000</pubDate>
       
-      <guid>/tags/social_media/</guid>
+      <guid>https://stevehemingway.github.io/newblog/tags/social_media/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Council</title>
-      <link>/tags/council/</link>
+      <link>https://stevehemingway.github.io/newblog/tags/council/</link>
       <pubDate>Sun, 05 Feb 2017 10:13:50 +0000</pubDate>
       
-      <guid>/tags/council/</guid>
+      <guid>https://stevehemingway.github.io/newblog/tags/council/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>/tags/index/</link>
+      <link>https://stevehemingway.github.io/newblog/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/index/</guid>
+      <guid>https://stevehemingway.github.io/newblog/tags/index/</guid>
       <description></description>
     </item>
     

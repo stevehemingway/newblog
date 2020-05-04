@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://stevehemingway.github.io/newblog/"
 languageCode = "en-gb"
 title = "Steve's Blog"
 theme = "bare"

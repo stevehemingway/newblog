@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on Steve&#39;s Blog</title>
-    <link>/tags/index/</link>
+    <link>https://stevehemingway.github.io/newblog/tags/index/</link>
     <description>Recent content in index on Steve&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="/tags/index/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stevehemingway.github.io/newblog/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Posts</title>
-      <link>/posts/</link>
+      <link>https://stevehemingway.github.io/newblog/posts/</link>
       <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/</guid>
+      <guid>https://stevehemingway.github.io/newblog/posts/</guid>
       <description></description>
     </item>
     
