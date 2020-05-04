@@ -1,0 +1,26 @@
+baseurl = ""
+languageCode = "en-gb"
+title = "Steve Hemingway's website"
+# theme = "hugo-coder"
+# theme = "ace-documentation"
+theme = "bare"
+# publishDir = "docs"
+pluralizelisttitles = false
+PygmentsCodeFences = true
+pygmentsStyle = "monokailight"
+# defaultContentLanguageInSubdir= false
+# enableMissingTranslationPlaceholders = false
+# Enable Google Analytics by entering your tracking id
+# googleAnalytics = ""
+Paginate = 5
+disqusShortname = "stevehem"
+# copyright = "(c) Steve Hemingway 2020"
+
+
+[params]
+	mainSections = [ "posts"]
+	
+	subtitle = "Steve Subtitle"
+	postcss = false
+	includeAuthorInTitle = true
+	disableAttribution = true
