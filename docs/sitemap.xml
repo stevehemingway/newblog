@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://stevehemingway.github.io/newblog/posts/2020/hello/</loc>
+    <lastmod>2020-05-04T15:58:44+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://stevehemingway.github.io/newblog/posts/</loc>
-    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-04T15:58:44+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://stevehemingway.github.io/newblog/</loc>
-    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-04T15:58:44+01:00</lastmod>
   </url>
   
   <url>
@@ -23,12 +28,27 @@
   </url>
   
   <url>
+    <loc>https://stevehemingway.github.io/newblog/categories/</loc>
+    <lastmod>2018-12-09T15:33:55+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://stevehemingway.github.io/newblog/posts/2018/kcc_christmas/</loc>
     <lastmod>2018-12-09T15:33:55+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://stevehemingway.github.io/newblog/tags/knebworth/</loc>
+    <lastmod>2018-12-09T15:33:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.github.io/newblog/categories/knebworth/</loc>
+    <lastmod>2018-12-09T15:33:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.github.io/newblog/categories/nhdc/</loc>
     <lastmod>2018-12-09T15:33:55+00:00</lastmod>
   </url>
   
@@ -58,12 +78,22 @@
   </url>
   
   <url>
+    <loc>https://stevehemingway.github.io/newblog/categories/royston/</loc>
+    <lastmod>2018-12-09T13:08:14+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://stevehemingway.github.io/newblog/posts/main_mods/</loc>
     <lastmod>2018-12-04T21:19:18+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://stevehemingway.github.io/newblog/tags/freedom/</loc>
+    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.github.io/newblog/categories/global/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -128,12 +158,22 @@
   </url>
   
   <url>
+    <loc>https://stevehemingway.github.io/newblog/categories/planning/</loc>
+    <lastmod>2018-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://stevehemingway.github.io/newblog/tags/voting/</loc>
     <lastmod>2018-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://stevehemingway.github.io/newblog/tags/hcc/</loc>
+    <lastmod>2018-04-17T17:42:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.github.io/newblog/categories/hcc/</loc>
     <lastmod>2018-04-17T17:42:37+00:00</lastmod>
   </url>
   
@@ -158,6 +198,11 @@
   </url>
   
   <url>
+    <loc>https://stevehemingway.github.io/newblog/categories/grants/</loc>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://stevehemingway.github.io/newblog/posts/carry-over-budget/</loc>
     <lastmod>2018-04-15T00:00:00+00:00</lastmod>
   </url>
@@ -170,6 +215,11 @@
   <url>
     <loc>https://stevehemingway.github.io/newblog/posts/station_pub_report/</loc>
     <lastmod>2018-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.github.io/newblog/categories/community/</loc>
+    <lastmod>2018-03-31T17:42:37+00:00</lastmod>
   </url>
   
   <url>
@@ -209,6 +259,11 @@
   
   <url>
     <loc>https://stevehemingway.github.io/newblog/tags/about/</loc>
+    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.github.io/newblog/categories/about/</loc>
     <lastmod>2018-02-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -293,7 +348,22 @@
   </url>
   
   <url>
+    <loc>https://stevehemingway.github.io/newblog/categories/consultation/</loc>
+    <lastmod>2017-06-14T16:07:35+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://stevehemingway.github.io/newblog/posts/2017/june_17/</loc>
+    <lastmod>2017-05-16T12:17:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.github.io/newblog/categories/legacy/</loc>
+    <lastmod>2017-05-16T12:17:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.github.io/newblog/categories/legacy-golang/</loc>
     <lastmod>2017-05-16T12:17:55+01:00</lastmod>
   </url>
   
@@ -303,8 +373,28 @@
   </url>
   
   <url>
+    <loc>https://stevehemingway.github.io/newblog/categories/elections/</loc>
+    <lastmod>2017-05-05T09:51:37+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://stevehemingway.github.io/newblog/posts/2017/may_kpn/</loc>
     <lastmod>2017-04-20T11:25:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.github.io/newblog/categories/parish-news/</loc>
+    <lastmod>2017-04-20T11:25:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.github.io/newblog/categories/local-plan/</loc>
+    <lastmod>2017-04-06T09:42:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.github.io/newblog/categories/politics/</loc>
+    <lastmod>2017-04-06T09:42:12+01:00</lastmod>
   </url>
   
   <url>
@@ -314,6 +404,11 @@
   
   <url>
     <loc>https://stevehemingway.github.io/newblog/posts/2017/april_newsletter/</loc>
+    <lastmod>2017-03-28T12:31:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.github.io/newblog/categories/newsletter/</loc>
     <lastmod>2017-03-28T12:31:34+01:00</lastmod>
   </url>
   
@@ -338,6 +433,11 @@
   </url>
   
   <url>
+    <loc>https://stevehemingway.github.io/newblog/categories/golang/</loc>
+    <lastmod>2017-02-21T22:57:46+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://stevehemingway.github.io/newblog/posts/2017/march_newsletter/</loc>
     <lastmod>2017-02-21T22:57:46+00:00</lastmod>
   </url>
@@ -358,11 +458,6 @@
   </url>
   
   <url>
-    <loc>https://stevehemingway.github.io/newblog/tags/activism/</loc>
-    <lastmod>2017-02-10T15:28:49+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://stevehemingway.github.io/newblog/posts/2017/facebook_activism/</loc>
     <lastmod>2017-02-10T15:28:49+00:00</lastmod>
   </url>
@@ -373,12 +468,12 @@
   </url>
   
   <url>
-    <loc>https://stevehemingway.github.io/newblog/tags/council/</loc>
+    <loc>https://stevehemingway.github.io/newblog/posts/twitter/</loc>
     <lastmod>2017-02-05T10:13:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stevehemingway.github.io/newblog/posts/twitter/</loc>
+    <loc>https://stevehemingway.github.io/newblog/tags/personal/</loc>
     <lastmod>2017-02-05T10:13:50+00:00</lastmod>
   </url>
   

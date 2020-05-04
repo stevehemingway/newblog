@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Steve&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2020 15:58:44 +0100</lastBuildDate>
     
 	<atom:link href="https://stevehemingway.github.io/newblog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello</title>
+      <link>https://stevehemingway.github.io/newblog/posts/2020/hello/</link>
+      <pubDate>Mon, 04 May 2020 15:58:44 +0100</pubDate>
+      
+      <guid>https://stevehemingway.github.io/newblog/posts/2020/hello/</guid>
+      <description>I&amp;rsquo;m back, sort of I switched to a different hugo theme, this time the &amp;lsquo;bare&amp;rsquo; theme by Tom Forbes.
+I am not a natural with hugo, or git, or github pages but with a lot of trial and error I have at least got it partially working.</description>
+    </item>
     
     <item>
       <title>The Last Post</title>

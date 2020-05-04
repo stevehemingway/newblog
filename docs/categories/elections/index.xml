@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elections on Steve&#39;s Blog</title>
+    <link>https://stevehemingway.github.io/newblog/categories/elections/</link>
+    <description>Recent content in Elections on Steve&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 05 May 2017 09:51:37 +0100</lastBuildDate>
+    
+	<atom:link href="https://stevehemingway.github.io/newblog/categories/elections/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>County Election Results 4 May 2017</title>
+      <link>https://stevehemingway.github.io/newblog/posts/2017/elections/</link>
+      <pubDate>Fri, 05 May 2017 09:51:37 +0100</pubDate>
+      
+      <guid>https://stevehemingway.github.io/newblog/posts/2017/elections/</guid>
+      <description>Elections in North Herts Congratulations to Michael Muir, Judi Billing, David Barnard, Derek Ashley, Richard Thake, Simon Bloxham, Terry Hone, Fiona Hill and Steve Jarvis for winning County Council seats.
+Also congratulations to Ray Shakespeare-Smith and Sarah Dingley in District bye-elections.
+For full results in North Herts visit the NHDC website.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GoLang on Steve&#39;s Blog</title>
+    <link>https://stevehemingway.github.io/newblog/categories/golang/</link>
+    <description>Recent content in GoLang on Steve&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 21 Feb 2017 22:57:46 +0000</lastBuildDate>
+    
+	<atom:link href="https://stevehemingway.github.io/newblog/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>March Newsletter</title>
+      <link>https://stevehemingway.github.io/newblog/posts/2017/march_newsletter/</link>
+      <pubDate>Tue, 21 Feb 2017 22:57:46 +0000</pubDate>
+      
+      <guid>https://stevehemingway.github.io/newblog/posts/2017/march_newsletter/</guid>
+      <description>In the penultimate meeting of NHDC for the current civic year, the budget for 2017/18 was agreed. Further savings were identified, as well as a substantial programme of capital expenditure. The council faces challenging times ahead as it has to contend with dwindling revenues from the New Homes Bonus and from Business Rates.
+The council&amp;rsquo;s focus is on making North Herts, in all its diversity, a better place for and working.</description>
+    </item>
+    
+  </channel>
+</rss>
