@@ -9,14 +9,15 @@ publishDir = "docs"
 
 [taxonomies]
   tag = "tags"
-#  series = "series"
+  categories = "categories"
 
 [params]
-mainSections = ["posts", "posts/2014", "posts/2015", "posts/2016", "posts/2017", "posts/2018",  "posts/2019"]
+mainSections = ["posts", "posts/2014", "posts/2015", "posts/2016", "posts/2017", 
+				"posts/2018",  "posts/2019", "posts/2020"]
 author = "Steve Hemingway"
 email = "steve@stevehemingway.com"
 # repoLink = "https://github.com/orf/bare-hugo-theme"
-description = 'Community Blogger from Knebworth'
+description = 'Another Knebworth Blog'
 # PostCSS is harder than it should be to get working on a theme
 # example site. It's easy on _your_ site.
 postcss = false

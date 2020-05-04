@@ -1,8 +1,7 @@
 +++
 title = "Is Twitter the key Social Media Platform?"
 menu = "main"
-Categories = ["Council", "Social_Media"]
-Tags = ["Council", "Twitter"]
+Tags = ["Personal"]
 Description = "Is using Twitter worth it?"
 date = "2017-02-05T10:13:50Z"
 +++
